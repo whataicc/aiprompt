@@ -1,38 +1,8 @@
-# 机灵助手 AI 生图提示词教程
+# AI生图提示词大全_Gpt image 2提示词网站_AI图片生成器推荐机灵助手
 
-这是面向 `https://docs.jiling.cc` 发布的静态站点目录，内容来自机灵助手 Web 模板数据和 uni 微信小程序模板页。
+机灵助手是面向图片创作、电商运营、社媒内容和设计提案的 AI 图片生成器，支持 GPT Image 2、NanoBanana 等模型。你可以在下方提示词目录中选择合适的模板，也可以扫码打开机灵助手小程序，上传参考图后直接一键生成。
 
-- 站点首页：https://docs.jiling.cc/
-- 模板数量：162
-- 模板页目录：`templates/`
-- 标签页目录：`tags/`
-- 小程序码资源：`assets/miniapp-codes/`
-
-## 部署方式
-
-### Netlify
-
-推荐把本目录作为单独 GitHub 仓库发布：
-
-- Build command：留空
-- Publish directory：`.`
-- Custom domain：可选，不绑定域名时使用 Netlify 默认 `.netlify.app` 域名
-
-## 同步方式
-
-源项目位于 `/Users/badfl/geekai-plus`。更新源模板后，在源项目里执行：
-
-```bash
-cd /Users/badfl/geekai-plus
-JILING_GUIDE_SITE_URL=https://docs.jiling.cc \
-node docs/jiling-miniapp-template-guides/scripts/sync-docs-jiling-cc.mjs
-```
-
-同步脚本会把最新静态站写入 `/Users/badfl/docs-jiling-cc`，并保留这个目录里的 `.git` 和 `.github`。
-
-### GitHub Pages
-
-本目录已包含 `CNAME` 和 `.nojekyll`。如果作为独立仓库发布，GitHub Pages 选择从分支根目录发布即可。
+![机灵助手小程序二维码](https://pic.imgdd.cc/item/6a1945ab5ee9eb8ad9c2fb9b.webp)
 
 ## 提示词目录
 

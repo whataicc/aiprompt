@@ -1,0 +1,2 @@
+/templates/:slug  /templates/:slug.html  200
+/tags/:slug  /tags/:slug.html  200

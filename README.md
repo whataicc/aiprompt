@@ -4,66 +4,6 @@
 
 ![机灵助手小程序二维码](https://pic.imgdd.cc/item/6a1945ab5ee9eb8ad9c2fb9b.webp)
 
-## 模板效果预览
-
-|  |  |  |
-| --- | --- | --- |
-| [![粗糙笨拙丑陋风](assets/readme-previews/rough-ugly-ms-paint-style.webp)](templates/rough-ugly-ms-paint-style.html)<br>粗糙笨拙丑陋风 | [![破屏穿越风格](assets/readme-previews/breaking-screen-social-style.webp)](templates/breaking-screen-social-style.html)<br>破屏穿越风格 | [![丑萌涂鸦画](assets/readme-previews/ugly-cute-doodle-drawing.webp)](templates/ugly-cute-doodle-drawing.html)<br>丑萌涂鸦画 |
-| [![光环叙事](assets/readme-previews/halo-narrative.webp)](templates/halo-narrative.html)<br>光环叙事 | [![老照片高保真修复](assets/readme-previews/old-photo-high-fidelity-restoration.webp)](templates/old-photo-high-fidelity-restoration.html)<br>老照片高保真修复 | [![水墨手绘插画](assets/readme-previews/ink-handdrawn-illustration.webp)](templates/ink-handdrawn-illustration.html)<br>水墨手绘插画 |
-| [![纸艺风格](assets/readme-previews/papercraft-style-filter.webp)](templates/papercraft-style-filter.html)<br>纸艺风格 | [![镜面反射冷艳肖像](assets/readme-previews/mirror-reflection-cold-portrait.webp)](templates/mirror-reflection-cold-portrait.html)<br>镜面反射冷艳肖像 | [![个人形象分析](assets/readme-previews/personal-image-analysis.webp)](templates/personal-image-analysis.html)<br>个人形象分析 |
-| [![皮克斯3D肖像](assets/readme-previews/pixar-3d-portrait.webp)](templates/pixar-3d-portrait.html)<br>皮克斯3D肖像 | [![抖音直播](assets/readme-previews/douyin-live.webp)](templates/douyin-live.html)<br>抖音直播 | [![商品广告](assets/readme-previews/product-advertisement.webp)](templates/product-advertisement.html)<br>商品广告 |
-| [![手绘包装提案](assets/readme-previews/hand-drawn-packaging-proposal.webp)](templates/hand-drawn-packaging-proposal.html)<br>手绘包装提案 | [![低质量鼠标涂鸦](assets/readme-previews/low-quality-mouse-doodle.webp)](templates/low-quality-mouse-doodle.html)<br>低质量鼠标涂鸦 | [![本地超市特价海报](assets/readme-previews/local-supermarket-poster.webp)](templates/local-supermarket-poster.html)<br>本地超市特价海报 |
-| [![梦幻逆光天空系](assets/readme-previews/dream-backlit-sky-poster.webp)](templates/dream-backlit-sky-poster.html)<br>梦幻逆光天空系 | [![温暖手工黏土风](assets/readme-previews/warm-clay-stopmotion-filter.webp)](templates/warm-clay-stopmotion-filter.html)<br>温暖手工黏土风 | [![白底主图](assets/readme-previews/white-background-main-shot.webp)](templates/white-background-main-shot.html)<br>白底主图 |
-| [![生活方式场景](assets/readme-previews/lifestyle-seeding-product-shot.webp)](templates/lifestyle-seeding-product-shot.html)<br>生活方式场景 | [![情侣双人盲盒收藏](assets/readme-previews/couple-blindbox-collection-set.webp)](templates/couple-blindbox-collection-set.html)<br>情侣双人盲盒收藏 | [![职业专属配件手办](assets/readme-previews/career-accessory-blindbox-figure.webp)](templates/career-accessory-blindbox-figure.html)<br>职业专属配件手办 |
-| [![高级灰影棚](assets/readme-previews/premium-gray-studio-shot.webp)](templates/premium-gray-studio-shot.html)<br>高级灰影棚 | [![透明窗盲盒](assets/readme-previews/classic-window-box-blindbox-figure.webp)](templates/classic-window-box-blindbox-figure.html)<br>透明窗盲盒 | [![45度悬浮动态图](assets/readme-previews/floating-45-degree-product-shot.webp)](templates/floating-45-degree-product-shot.html)<br>45度悬浮动态图 |
-| [![1/7超写实手办](assets/readme-previews/one-seventh-collectible-figure.webp)](templates/one-seventh-collectible-figure.html)<br>1/7超写实手办 | [![俯拍平铺](assets/readme-previews/top-down-flatlay-product-shot.webp)](templates/top-down-flatlay-product-shot.html)<br>俯拍平铺 | [![半透明毛玻璃视觉](assets/readme-previews/frosted-glass-logo-visual.webp)](templates/frosted-glass-logo-visual.html)<br>半透明毛玻璃视觉 |
-| [![官方周边限定手办](assets/readme-previews/official-limited-edition-figure.webp)](templates/official-limited-edition-figure.html)<br>官方周边限定手办 | [![3D/C4D多巴胺](assets/readme-previews/c4d-dopamine-product-shot.webp)](templates/c4d-dopamine-product-shot.html)<br>3D/C4D多巴胺 | [![Y2K赛博液态铬](assets/readme-previews/y2k-liquid-chrome-type.webp)](templates/y2k-liquid-chrome-type.html)<br>Y2K赛博液态铬 |
-| [![桌面建模工作室](assets/readme-previews/desktop-modeling-studio-figure.webp)](templates/desktop-modeling-studio-figure.html)<br>桌面建模工作室 | [![国潮/新中式](assets/readme-previews/new-chinese-trend-product-poster.webp)](templates/new-chinese-trend-product-poster.html)<br>国潮/新中式 | [![充气软糖美学](assets/readme-previews/inflatable-gummy-type.webp)](templates/inflatable-gummy-type.html)<br>充气软糖美学 |
-| [![潮玩新品官宣](assets/readme-previews/designer-toy-launch-poster.webp)](templates/designer-toy-launch-poster.html)<br>潮玩新品官宣 | [![三格漫画故事板](assets/readme-previews/three-panel-comic-story.webp)](templates/three-panel-comic-story.html)<br>三格漫画故事板 | [![港片霓虹风](assets/readme-previews/neon-hk-cinema.webp)](templates/neon-hk-cinema.html)<br>港片霓虹风 |
-| [![高端盲盒包装](assets/readme-previews/premium-blindbox-retail-packaging.webp)](templates/premium-blindbox-retail-packaging.html)<br>高端盲盒包装 | [![治愈系动画水彩](assets/readme-previews/healing-watercolor-brand-poster.webp)](templates/healing-watercolor-brand-poster.html)<br>治愈系动画水彩 | [![90年代杂志风](assets/readme-previews/retro-magazine-cover.webp)](templates/retro-magazine-cover.html)<br>90年代杂志风 |
-| [![Q版萌系盲盒](assets/readme-previews/cute-chibi-blindbox-figure.webp)](templates/cute-chibi-blindbox-figure.html)<br>Q版萌系盲盒 | [![赛博霓虹机能](assets/readme-previews/cyber-neon-functional-visual.webp)](templates/cyber-neon-functional-visual.html)<br>赛博霓虹机能 | [![胶片女神风](assets/readme-previews/retro-film-goddess.webp)](templates/retro-film-goddess.html)<br>胶片女神风 |
-| [![吸塑盒装手办](assets/readme-previews/action-figure-blister-pack.webp)](templates/action-figure-blister-pack.html)<br>吸塑盒装手办 | [![Y2K闪光风](assets/readme-previews/y2k-flash-selfie.webp)](templates/y2k-flash-selfie.html)<br>Y2K闪光风 | [![潮玩盲盒风](assets/readme-previews/trendy-designer-blindbox-figure.webp)](templates/trendy-designer-blindbox-figure.html)<br>潮玩盲盒风 |
-| [![未来潮玩盲盒风](assets/readme-previews/future-designer-toy-avatar.webp)](templates/future-designer-toy-avatar.html)<br>未来潮玩盲盒风 | [![收藏柜手办](assets/readme-previews/display-cabinet-collectible-figure.webp)](templates/display-cabinet-collectible-figure.html)<br>收藏柜手办 | [![90年代叙事胶片](assets/readme-previews/nineties-film-story-poster.webp)](templates/nineties-film-story-poster.html)<br>90年代叙事胶片 |
-| [![分层解构展示](assets/readme-previews/exploded-selling-point-product-shot.webp)](templates/exploded-selling-point-product-shot.html)<br>分层解构展示 | [![CCD校园风](assets/readme-previews/ccd-campus-photo.webp)](templates/ccd-campus-photo.html)<br>CCD校园风 | [![港风夜店胶片风](assets/readme-previews/hong-kong-nightclub-film.webp)](templates/hong-kong-nightclub-film.html)<br>港风夜店胶片风 |
-| [![护肤品爆款](assets/readme-previews/skincare-bestseller.webp)](templates/skincare-bestseller.html)<br>护肤品爆款 | [![老电影海报风](assets/readme-previews/old-movie-poster-star.webp)](templates/old-movie-poster-star.html)<br>老电影海报风 | [![香水爆款](assets/readme-previews/perfume-bestseller.webp)](templates/perfume-bestseller.html)<br>香水爆款 |
-| [![宝莱坞沙丽复古风](assets/readme-previews/bollywood-sari-retro.webp)](templates/bollywood-sari-retro.html)<br>宝莱坞沙丽复古风 | [![数码科技爆款](assets/readme-previews/digital-tech-bestseller.webp)](templates/digital-tech-bestseller.html)<br>数码科技爆款 | [![品牌联名主视觉](assets/readme-previews/brand-collab.webp)](templates/brand-collab.html)<br>品牌联名主视觉 |
-| [![明星狗仔风](assets/readme-previews/paparazzi-film-snap.webp)](templates/paparazzi-film-snap.html)<br>明星狗仔风 | [![高级静奢版](assets/readme-previews/quiet-luxury-product.webp)](templates/quiet-luxury-product.html)<br>高级静奢版 | [![海报生成](assets/readme-previews/japanese-tea-drink-poster.webp)](templates/japanese-tea-drink-poster.html)<br>海报生成 |
-| [![高端产品生成](assets/readme-previews/luxury-product-shot.webp)](templates/luxury-product-shot.html)<br>高端产品生成 | [![让事物焕发活力](assets/readme-previews/sketch-to-polished-visual.webp)](templates/sketch-to-polished-visual.html)<br>让事物焕发活力 | [![渐变品牌Logo](assets/readme-previews/neoglo-logo.webp)](templates/neoglo-logo.html)<br>渐变品牌Logo |
-| [![24K矢量金线](assets/readme-previews/24k-gold-vector-lines.webp)](templates/24k-gold-vector-lines.html)<br>24K矢量金线 | [![复古动画海报](assets/readme-previews/retro-cel-vhs-poster.webp)](templates/retro-cel-vhs-poster.html)<br>复古动画海报 | [![新中式品牌风](assets/readme-previews/new-chinese-ink-brand-visual.webp)](templates/new-chinese-ink-brand-visual.html)<br>新中式品牌风 |
-| [![禅意极简](assets/readme-previews/zen-minimal-product-shot.webp)](templates/zen-minimal-product-shot.html)<br>禅意极简 | [![赛博科技](assets/readme-previews/cyber-tech-product-shot.webp)](templates/cyber-tech-product-shot.html)<br>赛博科技 | [![自然森系](assets/readme-previews/natural-forest-product-shot.webp)](templates/natural-forest-product-shot.html)<br>自然森系 |
-| [![高奢丝绒](assets/readme-previews/luxury-velvet-product-shot.webp)](templates/luxury-velvet-product-shot.html)<br>高奢丝绒 | [![波普酸性](assets/readme-previews/pop-acid-product-shot.webp)](templates/pop-acid-product-shot.html)<br>波普酸性 | [![极致3D极简美学](assets/readme-previews/ultra-3d-minimal-aesthetic.webp)](templates/ultra-3d-minimal-aesthetic.html)<br>极致3D极简美学 |
-| [![超现实自然共生](assets/readme-previews/surreal-nature-symbiosis.webp)](templates/surreal-nature-symbiosis.html)<br>超现实自然共生 | [![复古未来主义插画](assets/readme-previews/retro-futurism-pop-poster.webp)](templates/retro-futurism-pop-poster.html)<br>复古未来主义插画 | [![3D卡通贴纸包](assets/readme-previews/3d-sticker-pack.webp)](templates/3d-sticker-pack.html)<br>3D卡通贴纸包 |
-| [![AI换模特主图](assets/readme-previews/ai-model-swap.webp)](templates/ai-model-swap.html)<br>AI换模特主图 | [![现代动画概念美术](assets/readme-previews/anime-concept.webp)](templates/anime-concept.html)<br>现代动画概念美术 | [![角色360度全景](assets/readme-previews/character-360-panorama.webp)](templates/character-360-panorama.html)<br>角色360度全景 |
-| [![电影肖像照](assets/readme-previews/cinematic-portrait.webp)](templates/cinematic-portrait.html)<br>电影肖像照 | [![自定义娃娃机](assets/readme-previews/custom-claw-machine.webp)](templates/custom-claw-machine.html)<br>自定义娃娃机 | [![服装上身](assets/readme-previews/custom-clothing-upperbody.webp)](templates/custom-clothing-upperbody.html)<br>服装上身 |
-| [![商品细节特写图](assets/readme-previews/detail-shot-generator.webp)](templates/detail-shot-generator.html)<br>商品细节特写图 | [![时尚双栏电商图册](assets/readme-previews/fashion-catalog.webp)](templates/fashion-catalog.html)<br>时尚双栏电商图册 | [![商品平铺图生成](assets/readme-previews/flat-lay-generator.webp)](templates/flat-lay-generator.html)<br>商品平铺图生成 |
-| [![电商产品悬浮渲染](assets/readme-previews/floating-product-render.webp)](templates/floating-product-render.html)<br>电商产品悬浮渲染 | [![吉卜力旅行照](assets/readme-previews/ghibli-travel-photo.webp)](templates/ghibli-travel-photo.html)<br>吉卜力旅行照 | [![巨型人物脚手架](assets/readme-previews/giant-scaffold-person.webp)](templates/giant-scaffold-person.html)<br>巨型人物脚手架 |
-| [![玻璃瓶纪念品](assets/readme-previews/glass-bottle-souvenir.webp)](templates/glass-bottle-souvenir.html)<br>玻璃瓶纪念品 | [![制作证件照](assets/readme-previews/id-photo.webp)](templates/id-photo.html)<br>制作证件照 | [![对童年的自己治疗](assets/readme-previews/inner-child-healing.webp)](templates/inner-child-healing.html)<br>对童年的自己治疗 |
-| [![AI 变装写真](assets/readme-previews/makeover.webp)](templates/makeover.html)<br>AI 变装写真 | [![立方体微缩](assets/readme-previews/miniature-scene.webp)](templates/miniature-scene.html)<br>立方体微缩 | [![模特换姿势同款图](assets/readme-previews/model-pose-variation.webp)](templates/model-pose-variation.html)<br>模特换姿势同款图 |
-| [![更换多种发型](assets/readme-previews/multi-hairstyle-grid.webp)](templates/multi-hairstyle-grid.html)<br>更换多种发型 | [![一键换装上新图](assets/readme-previews/one-click-outfit.webp)](templates/one-click-outfit.html)<br>一键换装上新图 | [![OOTD穿搭](assets/readme-previews/ootd-styling.webp)](templates/ootd-styling.html)<br>OOTD穿搭 |
-| [![柔美浪漫香水商拍](assets/readme-previews/perfume-romance.webp)](templates/perfume-romance.html)<br>柔美浪漫香水商拍 | [![人物换衣](assets/readme-previews/person-outfit-swap.webp)](templates/person-outfit-swap.html)<br>人物换衣 | [![照片变玩偶](assets/readme-previews/photo-toy.webp)](templates/photo-toy.html)<br>照片变玩偶 |
-| [![粉调傲娇定格照](assets/readme-previews/pink-tsundere-portrait.webp)](templates/pink-tsundere-portrait.html)<br>粉调傲娇定格照 | [![皮克斯风格](assets/readme-previews/pixar-avatar.webp)](templates/pixar-avatar.html)<br>皮克斯风格 | [![复古旗袍名媛风](assets/readme-previews/qipao-gala.webp)](templates/qipao-gala.html)<br>复古旗袍名媛风 |
-| [![鞋帽上身展示图](assets/readme-previews/shoe-hat-styling.webp)](templates/shoe-hat-styling.html)<br>鞋帽上身展示图 | [![九宫格精致写真](assets/readme-previews/social-ninegrid.webp)](templates/social-ninegrid.html)<br>九宫格精致写真 | [![电商虚拟试穿](assets/readme-previews/virtual-try-on.webp)](templates/virtual-try-on.html)<br>电商虚拟试穿 |
-| [![Vogue封面](assets/readme-previews/vogue-cover.webp)](templates/vogue-cover.html)<br>Vogue封面 | [![电商商品海报](assets/readme-previews/ecommerce.webp)](templates/ecommerce.html)<br>电商商品海报 | [![餐饮菜单大片](assets/readme-previews/food.webp)](templates/food.html)<br>餐饮菜单大片 |
-| [![儿童绘本插画](assets/readme-previews/kids.webp)](templates/kids.html)<br>儿童绘本插画 | [![节日营销海报](assets/readme-previews/poster.webp)](templates/poster.html)<br>节日营销海报 | [![潮玩玩具包装](assets/readme-previews/toy.webp)](templates/toy.html)<br>潮玩玩具包装 |
-| [![复古大头贴](assets/readme-previews/retro-photo-booth-sticker.webp)](templates/retro-photo-booth-sticker.html)<br>复古大头贴 | [![复古婚礼录像风](assets/readme-previews/retro-wedding-video.webp)](templates/retro-wedding-video.html)<br>复古婚礼录像风 | [![迪厅闪光风](assets/readme-previews/retro-disco-flash.webp)](templates/retro-disco-flash.html)<br>迪厅闪光风 |
-| [![明星影视作品海报](assets/readme-previews/annual-filmography-collage-poster.webp)](templates/annual-filmography-collage-poster.html)<br>明星影视作品海报 | [![手绘涂鸦卡通肖像](assets/readme-previews/hand-drawn-doodle-cartoon-portrait.webp)](templates/hand-drawn-doodle-cartoon-portrait.html)<br>手绘涂鸦卡通肖像 | [![朋友圈动态截图](assets/readme-previews/moments-feed-screenshot.webp)](templates/moments-feed-screenshot.html)<br>朋友圈动态截图 |
-| [![极简2D扁平插画](assets/readme-previews/minimal-2d-flat-illustration.webp)](templates/minimal-2d-flat-illustration.html)<br>极简2D扁平插画 | [![水晶露珠肌效果](assets/readme-previews/crystal-dew-skin-effect.webp)](templates/crystal-dew-skin-effect.html)<br>水晶露珠肌效果 | [![复古怪诞插画](assets/readme-previews/retro-grotesque-illustration.webp)](templates/retro-grotesque-illustration.html)<br>复古怪诞插画 |
-| [![杂志剪贴风格](assets/readme-previews/magazine-cutout-collage-style.webp)](templates/magazine-cutout-collage-style.html)<br>杂志剪贴风格 | [![Q版克隆贴纸照片](assets/readme-previews/chibi-clone-sticker-photo.webp)](templates/chibi-clone-sticker-photo.html)<br>Q版克隆贴纸照片 | [![Vogue时尚插画](assets/readme-previews/vogue-fashion-illustration.webp)](templates/vogue-fashion-illustration.html)<br>Vogue时尚插画 |
-| [![银翼梦偶](assets/readme-previews/silver-wing-dream-doll.webp)](templates/silver-wing-dream-doll.html)<br>银翼梦偶 | [![清新蓝底证件照](assets/readme-previews/fresh-blue-id-photo.webp)](templates/fresh-blue-id-photo.html)<br>清新蓝底证件照 | [![儿童蜡笔风格](assets/readme-previews/children-crayon-style.webp)](templates/children-crayon-style.html)<br>儿童蜡笔风格 |
-| [![影楼级黑白写真](assets/readme-previews/studio-grade-black-white-portrait.webp)](templates/studio-grade-black-white-portrait.html)<br>影楼级黑白写真 | [![个人资料卡](assets/readme-previews/personal-profile-card.webp)](templates/personal-profile-card.html)<br>个人资料卡 | [![白底证件照](assets/readme-previews/white-background-id-photo.webp)](templates/white-background-id-photo.html)<br>白底证件照 |
-| [![极简风格插画](assets/readme-previews/minimalist-editorial-illustration.webp)](templates/minimalist-editorial-illustration.html)<br>极简风格插画 | [![奶茶飞溅风格](assets/readme-previews/milk-tea-splash-style.webp)](templates/milk-tea-splash-style.html)<br>奶茶飞溅风格 | [![卡通蜡笔风格](assets/readme-previews/cartoon-crayon-style.webp)](templates/cartoon-crayon-style.html)<br>卡通蜡笔风格 |
-| [![彩色线条手绘](assets/readme-previews/colorful-doodle-line-art.webp)](templates/colorful-doodle-line-art.html)<br>彩色线条手绘 | [![拼豆像素图纸](assets/readme-previews/perler-bead-pixel-pattern.webp)](templates/perler-bead-pixel-pattern.html)<br>拼豆像素图纸 | [![商务档案头像](assets/readme-previews/business-profile-headshot.webp)](templates/business-profile-headshot.html)<br>商务档案头像 |
-| [![电商产品介绍图](assets/readme-previews/ecommerce-product-intro-image.webp)](templates/ecommerce-product-intro-image.html)<br>电商产品介绍图 | [![超写实概念肖像](assets/readme-previews/hyperreal-concept-portrait.webp)](templates/hyperreal-concept-portrait.html)<br>超写实概念肖像 | [![个人妆容分析](assets/readme-previews/personal-makeup-analysis.webp)](templates/personal-makeup-analysis.html)<br>个人妆容分析 |
-| [![甜点促销海报](assets/readme-previews/dessert-sale-poster.webp)](templates/dessert-sale-poster.html)<br>甜点促销海报 | [![手提产品包装设计](assets/readme-previews/handled-product-packaging-design.webp)](templates/handled-product-packaging-design.html)<br>手提产品包装设计 | [![产品包装设计](assets/readme-previews/product-packaging-design.webp)](templates/product-packaging-design.html)<br>产品包装设计 |
-| [![手工纸雕插画](assets/readme-previews/handmade-paper-sculpture-illustration.webp)](templates/handmade-paper-sculpture-illustration.html)<br>手工纸雕插画 | [![红底证件照](assets/readme-previews/red-background-id-photo.webp)](templates/red-background-id-photo.html)<br>红底证件照 | [![电商促销海报设计](assets/readme-previews/ecommerce-sale-poster-design.webp)](templates/ecommerce-sale-poster-design.html)<br>电商促销海报设计 |
-| [![护肤品促销海报](assets/readme-previews/skincare-promo-poster.webp)](templates/skincare-promo-poster.html)<br>护肤品促销海报 | [![皮克斯3D儿童肖像](assets/readme-previews/pixar-3d-child-portrait.webp)](templates/pixar-3d-child-portrait.html)<br>皮克斯3D儿童肖像 | [![科普百科图](assets/readme-previews/encyclopedia-infographic.webp)](templates/encyclopedia-infographic.html)<br>科普百科图 |
-| [![异国旅行海报](assets/readme-previews/lost-in-country-poster.webp)](templates/lost-in-country-poster.html)<br>异国旅行海报 | [![个人色彩分析](assets/readme-previews/personal-color-analysis.webp)](templates/personal-color-analysis.html)<br>个人色彩分析 | [![个人穿搭分析](assets/readme-previews/personal-outfit-analysis.webp)](templates/personal-outfit-analysis.html)<br>个人穿搭分析 |
-| [![个人发型分析](assets/readme-previews/personal-hairstyle-analysis.webp)](templates/personal-hairstyle-analysis.html)<br>个人发型分析 | [![Nike超现实海报](assets/readme-previews/nike-surreal-poster.webp)](templates/nike-surreal-poster.html)<br>Nike超现实海报 | [![角色设定图](assets/readme-previews/character-design-sheet.webp)](templates/character-design-sheet.html)<br>角色设定图 |
-| [![技术信息图](assets/readme-previews/technical-infographic.webp)](templates/technical-infographic.html)<br>技术信息图 | [![情侣漫步拼贴画](assets/readme-previews/couple-stroll-collage.webp)](templates/couple-stroll-collage.html)<br>情侣漫步拼贴画 | [![高级时装人像](assets/readme-previews/high-fashion-editorial-portrait.webp)](templates/high-fashion-editorial-portrait.html)<br>高级时装人像 |
-| [![超市特价传单](assets/readme-previews/community-supermarket-flyer.webp)](templates/community-supermarket-flyer.html)<br>超市特价传单 | [![东方幻想风格女性](assets/readme-previews/eastern-fantasy-female.webp)](templates/eastern-fantasy-female.html)<br>东方幻想风格女性 | [![拆解信息图](assets/readme-previews/deconstruction-infographic.webp)](templates/deconstruction-infographic.html)<br>拆解信息图 |
-| [![电商详情图](assets/readme-previews/ecommerce-detail-image.webp)](templates/ecommerce-detail-image.html)<br>电商详情图 | [![旅游攻略](assets/readme-previews/travel-guide.webp)](templates/travel-guide.html)<br>旅游攻略 | [![书法临摹贴](assets/readme-previews/calligraphy-copybook.webp)](templates/calligraphy-copybook.html)<br>书法临摹贴 |
-
-
 ## 提示词目录
 
 <details>
@@ -73,6 +13,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/rough-ugly-ms-paint-style
 - 分类：社媒内容 / 趣味滤镜
 - 标签：趣味滤镜、MS Paint、丑萌重绘、社媒内容
+
+效果图：
+
+[![粗糙笨拙丑陋风](assets/readme-previews/rough-ugly-ms-paint-style.webp)](templates/rough-ugly-ms-paint-style.html)
+
 
 提示词说明：如果你想更像故意画坏的梗图，可以继续补充线条更歪、比例更失控、鼠标涂鸦、像素边缘、低质量截图感等方向。
 
@@ -91,6 +36,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/breaking-screen-social-style
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志/海报、破屏穿越、社媒视觉、AI变装
+
+效果图：
+
+[![破屏穿越风格](assets/readme-previews/breaking-screen-social-style.webp)](templates/breaking-screen-social-style.html)
+
 
 提示词说明：如果你想让人物更像某种潮流风格或更有封面感，可以继续补充穿搭、表情、动作力度或背景氛围。
 
@@ -169,6 +119,11 @@
 - 分类：AI变装 / 二次元变身
 - 标签：二次元变身、丑萌涂鸦、表情包风、AI变装
 
+效果图：
+
+[![丑萌涂鸦画](assets/readme-previews/ugly-cute-doodle-drawing.webp)](templates/ugly-cute-doodle-drawing.html)
+
+
 提示词说明：如果你想让成图更像表情包，可以继续补充更傻乎乎、更潦草、比例更离谱、线条更乱或背景更简单。
 
 提示词：
@@ -193,6 +148,11 @@
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志/海报、故事板光环、时尚人像、AI变装
 
+效果图：
+
+[![光环叙事](assets/readme-previews/halo-narrative.webp)](templates/halo-narrative.html)
+
+
 提示词说明：如果你希望叙事感更强，可以继续补充故事板帧里的情绪片段、城市背景、服装剪裁或光晕强度。
 
 提示词：
@@ -212,6 +172,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/old-photo-high-fidelity-restoration
 - 分类：社媒内容 / 胶片叙事
 - 标签：胶片叙事、老照片修复、高保真修复、社媒内容
+
+效果图：
+
+[![老照片高保真修复](assets/readme-previews/old-photo-high-fidelity-restoration.webp)](templates/old-photo-high-fidelity-restoration.html)
+
 
 提示词说明：如果你想更克制，可以补充“只做修复不改变人物”；如果想上色，可以补充年代、室内光线、服装和场景色彩参考。
 
@@ -241,6 +206,11 @@
 - 分类：二次元/漫画 / 角色插画
 - 标签：角色插画、水墨手绘、韩风人物、二次元/漫画
 
+效果图：
+
+[![水墨手绘插画](assets/readme-previews/ink-handdrawn-illustration.webp)](templates/ink-handdrawn-illustration.html)
+
+
 提示词说明：你可以继续补充发色、妆容、服装元素、配饰、姿势细节或角色情绪，让画面更贴近你想要的人物设定。
 
 提示词：
@@ -261,6 +231,11 @@
 - 分类：社媒内容 / 趣味滤镜
 - 标签：趣味滤镜、纸艺风格、可爱手作、社媒内容
 
+效果图：
+
+[![纸艺风格](assets/readme-previews/papercraft-style-filter.webp)](templates/papercraft-style-filter.html)
+
+
 提示词说明：如果你想让画面更偏童趣、治愈、花园感或手账感，可以继续补充主体重点、装饰元素偏好和整体情绪方向。
 
 提示词：
@@ -279,6 +254,11 @@
 - 分类：人物写真 / 情绪大片
 - 标签：情绪大片、镜面反射、冷艳肖像、人物写真
 
+效果图：
+
+[![镜面反射冷艳肖像](assets/readme-previews/mirror-reflection-cold-portrait.webp)](templates/mirror-reflection-cold-portrait.html)
+
+
 提示词说明：如果你希望更偏时尚大片或更偏超现实镜像氛围，可以继续补充服装、镜面空间、视角或情绪细节。
 
 提示词：
@@ -296,6 +276,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/personal-image-analysis
 - 分类：社媒内容 / 信息图
 - 标签：信息图、个人形象分析、风格建议、社媒内容
+
+效果图：
+
+[![个人形象分析](assets/readme-previews/personal-image-analysis.webp)](templates/personal-image-analysis.html)
+
 
 提示词说明：如果你更在意某一类建议，可以继续补充“更想看发型对比”“更想看显白色彩”“更关注珠宝搭配”这类方向。
 
@@ -329,6 +314,11 @@
 - 分类：IP形象/手办 / 3D卡通形象
 - 标签：3D卡通形象、皮克斯风、角色肖像、IP形象/手办
 
+效果图：
+
+[![皮克斯3D肖像](assets/readme-previews/pixar-3d-portrait.webp)](templates/pixar-3d-portrait.html)
+
+
 提示词说明：如果你想让角色更贴近某种气质，可以继续补充发型方向、服装类型、笑容状态或整体色彩偏好。
 
 提示词：
@@ -347,6 +337,11 @@
 - 分类：社媒内容 / 直播截图
 - 标签：抖音直播、直播截图、女主播、社媒内容
 
+效果图：
+
+[![抖音直播](assets/readme-previews/douyin-live.webp)](templates/douyin-live.html)
+
+
 提示词说明：可继续补充“带货直播、游戏直播、知识分享、美妆直播、赛博科技感、真实手机截图、弹幕热闹、礼物特效”等词。
 
 提示词：
@@ -364,6 +359,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/product-advertisement
 - 分类：广告创意 / 商品广告
 - 标签：商品广告、夏日饮料、高CTA海报、广告创意
+
+效果图：
+
+[![商品广告](assets/readme-previews/product-advertisement.webp)](templates/product-advertisement.html)
+
 
 提示词说明：可继续补充“0糖、低卡、强气泡、柠檬味、冰镇、限时促销、新品上市、扫码购买、买一送一、年轻潮流感”等卖点词。
 
@@ -384,6 +384,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/hand-drawn-packaging-proposal
 - 分类：广告创意 / 包装提案
 - 标签：包装设计、提案板、手绘草图、包装提案、广告创意
+
+效果图：
+
+[![手绘包装提案](assets/readme-previews/hand-drawn-packaging-proposal.webp)](templates/hand-drawn-packaging-proposal.html)
+
 
 提示词说明：优先把【产品名称】换成具体产品，再补充品牌气质、目标人群、使用场景或关键词，提案感会更稳定。
 
@@ -437,6 +442,11 @@
 - 分类：AI变装 / 生活记录
 - 标签：生活记录、鼠标涂鸦、低质量手绘、AI变装
 
+效果图：
+
+[![低质量鼠标涂鸦](assets/readme-previews/low-quality-mouse-doodle.webp)](templates/low-quality-mouse-doodle.html)
+
+
 提示词说明：如果你想让失败感更强，可以继续补充更粗的鼠标线条、更尴尬的比例、更低清晰度或更像 MS Paint 的像素边缘。
 
 提示词：
@@ -455,6 +465,11 @@
 - 分类：广告创意 / 促销海报
 - 标签：超市海报、特价促销、生鲜传单、促销海报、广告创意
 
+效果图：
+
+[![本地超市特价海报](assets/readme-previews/local-supermarket-poster.webp)](templates/local-supermarket-poster.html)
+
+
 提示词说明：使用建议：补充门店名称、主推商品、价格、活动时间和促销口号，海报会更像真实本地门店活动物料。
 
 提示词：
@@ -472,6 +487,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/dream-backlit-sky-poster
 - 分类：二次元/漫画 / 天空叙事
 - 标签：逆光天空、黄昏丁达尔、青春电影感、天空叙事、二次元/漫画
+
+效果图：
+
+[![梦幻逆光天空系](assets/readme-previews/dream-backlit-sky-poster.webp)](templates/dream-backlit-sky-poster.html)
+
 
 提示词说明：如果想更强化情绪表达，可继续补充“青春感、希望感、浪漫感、季节感、节日感、梦幻感、校园感”等词。
 
@@ -493,6 +513,11 @@
 - 分类：社媒内容 / 趣味滤镜
 - 标签：手工黏土、定格动画、童趣封面、趣味滤镜、社媒内容
 
+效果图：
+
+[![温暖手工黏土风](assets/readme-previews/warm-clay-stopmotion-filter.webp)](templates/warm-clay-stopmotion-filter.html)
+
+
 提示词说明：可继续补充“治愈感、解压感、手作温度、亲和力、童趣感、触觉感、DIY 真实感、节日友好感”等词。
 
 提示词：
@@ -513,6 +538,11 @@
 - 分类：电商 / 合规主图
 - 标签：纯白底、合规主图、商品白底、电商
 
+效果图：
+
+[![白底主图](assets/readme-previews/white-background-main-shot.webp)](templates/white-background-main-shot.html)
+
+
 提示词说明：建议保留“唯一参考图、纯白背景、产品本体完全一致、无道具无杂物、合规主图规范”这些核心描述。
 
 提示词：
@@ -531,6 +561,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/lifestyle-seeding-product-shot
 - 分类：电商 / 种草场景
 - 标签：生活方式、真实场景、社媒种草、种草场景、电商
+
+效果图：
+
+[![生活方式场景](assets/readme-previews/lifestyle-seeding-product-shot.webp)](templates/lifestyle-seeding-product-shot.html)
+
 
 提示词说明：建议保留“唯一参考图、产品本体完全一致、真实使用场景、少量合理配饰、柔和自然窗光、社论级商业电商摄影”这些核心描述。
 
@@ -551,6 +586,11 @@
 - 分类：IP形象/手办 / 情侣套装
 - 标签：双人盲盒、情侣套装、纪念礼物、IP形象/手办
 
+效果图：
+
+[![情侣双人盲盒收藏](assets/readme-previews/couple-blindbox-collection-set.webp)](templates/couple-blindbox-collection-set.html)
+
+
 提示词说明：建议保留“双人照片、双人限定包装盒、透明展示窗、双人透明底座、情侣元素配件、限定情侣系列收藏盲盒”这些核心描述。
 
 提示词：
@@ -569,6 +609,11 @@
 - 分类：IP形象/手办 / 职业IP
 - 标签：职业配件、个人IP、身份道具、职业IP、IP形象/手办
 
+效果图：
+
+[![职业专属配件手办](assets/readme-previews/career-accessory-blindbox-figure.webp)](templates/career-accessory-blindbox-figure.html)
+
+
 提示词说明：建议保留“职业专属配件、独立配件展示区、透明窗口包装、官方正版收藏玩具、个人IP感、社交传播感”这些核心描述。
 
 提示词：
@@ -586,6 +631,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/premium-gray-studio-shot
 - 分类：电商 / 影棚质感
 - 标签：高级灰、专业影棚、官网视觉、影棚质感、电商
+
+效果图：
+
+[![高级灰影棚](assets/readme-previews/premium-gray-studio-shot.webp)](templates/premium-gray-studio-shot.html)
+
 
 提示词说明：建议保留“唯一参考图、浅灰无缝影棚背景、高级灰渐变、柔和漫射布光、真实镜面反射”这些核心描述。
 
@@ -606,6 +656,11 @@
 - 分类：IP形象/手办 / 盲盒包装
 - 标签：透明窗包装、收藏手办、官方商品图、盲盒包装、IP形象/手办
 
+效果图：
+
+[![透明窗盲盒](assets/readme-previews/classic-window-box-blindbox-figure.webp)](templates/classic-window-box-blindbox-figure.html)
+
+
 提示词说明：建议保留“保留真实五官、1/7 比例收藏公仔、透明展示窗、圆角包装、压克力底座、正版收藏玩具质感”这些核心描述。
 
 提示词：
@@ -623,6 +678,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/floating-45-degree-product-shot
 - 分类：电商 / 悬浮展示
 - 标签：45度悬浮、视觉冲击、广告Banner、悬浮展示、电商
+
+效果图：
+
+[![45度悬浮动态图](assets/readme-previews/floating-45-degree-product-shot.webp)](templates/floating-45-degree-product-shot.html)
+
 
 提示词说明：建议保留“唯一参考图、45度角悬浮、真实比例与几何结构、柔和真实投影、视觉冲击力”这些核心描述。
 
@@ -643,6 +703,11 @@
 - 分类：IP形象/手办 / 收藏手办
 - 标签：1/7比例、超写实手办、官方周边、收藏手办、IP形象/手办
 
+效果图：
+
+[![1/7超写实手办](assets/readme-previews/one-seventh-collectible-figure.webp)](templates/one-seventh-collectible-figure.html)
+
+
 提示词说明：建议保留“超写实 1/7 比例、高精度 3D 公仔、透明圆形底座、同系列包装盒、官方商品拍摄图”这些核心描述。
 
 提示词：
@@ -660,6 +725,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/top-down-flatlay-product-shot
 - 分类：电商 / 平铺构图
 - 标签：俯拍平铺、信息展示、详情页、平铺构图、电商
+
+效果图：
+
+[![俯拍平铺](assets/readme-previews/top-down-flatlay-product-shot.webp)](templates/top-down-flatlay-product-shot.html)
+
 
 提示词说明：建议保留“唯一参考图、自上而下俯拍、平衡布局、柔和均匀光线、最小阴影、信息展示图”这些核心描述。
 
@@ -680,6 +750,11 @@
 - 分类：Logo/字体 / Logo概念
 - 标签：磨砂玻璃、半透明、科技感Logo、Logo概念、Logo/字体
 
+效果图：
+
+[![半透明毛玻璃视觉](assets/readme-previews/frosted-glass-logo-visual.webp)](templates/frosted-glass-logo-visual.html)
+
+
 提示词说明：如果你希望更偏金融或高端服务业，可继续补充“高级、理性、克制、呼吸感、纯净留白”等关键词。
 
 提示词：
@@ -698,6 +773,11 @@
 - 分类：IP形象/手办 / 限定周边
 - 标签：限定版、官方周边、收藏包装、限定周边、IP形象/手办
 
+效果图：
+
+[![官方周边限定手办](assets/readme-previews/official-limited-edition-figure.webp)](templates/official-limited-edition-figure.html)
+
+
 提示词说明：建议保留“官方周边、限定版、透明展示窗、角色名字、系列编号、限定徽章、正版角色周边海报”这些核心描述。
 
 提示词：
@@ -715,6 +795,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/c4d-dopamine-product-shot
 - 分类：电商 / 3D场景
 - 标签：C4D、多巴胺、马卡龙配色、3D场景、电商
+
+效果图：
+
+[![3D/C4D多巴胺](assets/readme-previews/c4d-dopamine-product-shot.webp)](templates/c4d-dopamine-product-shot.html)
+
 
 提示词说明：建议保留“唯一参考图、C4D风格极简几何展示台、马卡龙多巴胺配色、磨砂玻璃、亚克力背景、年轻化”这些核心描述。
 
@@ -737,6 +822,11 @@
 - 分类：Logo/字体 / 3D字体
 - 标签：液态金属、Y2K、先锋字体、3D字体、Logo/字体
 
+效果图：
+
+[![Y2K赛博液态铬](assets/readme-previews/y2k-liquid-chrome-type.webp)](templates/y2k-liquid-chrome-type.html)
+
+
 提示词说明：如果想更偏音乐或潮牌海报，可加上“暗黑先锋、重工业、镜面反射、厚重、未来主义”等词。
 
 提示词：
@@ -755,6 +845,11 @@
 - 分类：IP形象/手办 / 工作室展示
 - 标签：设计师桌面、建模屏幕、工作室展示、IP形象/手办
 
+效果图：
+
+[![桌面建模工作室](assets/readme-previews/desktop-modeling-studio-figure.webp)](templates/desktop-modeling-studio-figure.html)
+
+
 提示词说明：建议保留“工作室展示、现代电脑桌、建模软件屏幕、1/7 比例商业化公仔、透明圆形底座、幕后展示图”这些核心描述。
 
 提示词：
@@ -772,6 +867,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/new-chinese-trend-product-poster
 - 分类：电商 / 风格海报
 - 标签：国潮海报、新中式、中式视觉、风格海报、电商
+
+效果图：
+
+[![国潮/新中式](assets/readme-previews/new-chinese-trend-product-poster.webp)](templates/new-chinese-trend-product-poster.html)
+
 
 提示词说明：建议保留“唯一参考图、产品中心位置、故宫红与琉璃金主色调、祥云仙鹤、如意纹、中式浮雕窗棂、对称构图”这些核心描述。
 
@@ -792,6 +892,11 @@
 - 分类：Logo/字体 / 标题字
 - 标签：3D充气、可爱字体、马卡龙色、标题字、Logo/字体
 
+效果图：
+
+[![充气软糖美学](assets/readme-previews/inflatable-gummy-type.webp)](templates/inflatable-gummy-type.html)
+
+
 提示词说明：如果想更偏 Gen Z 和社媒传播感，可继续补充“可爱、Q弹、治愈、解压、活泼、社交吸引力”等词。
 
 提示词：
@@ -809,6 +914,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/designer-toy-launch-poster
 - 分类：IP形象/手办 / 新品官宣
 - 标签：新品发布、潮玩海报、品牌官宣、新品官宣、IP形象/手办
+
+效果图：
+
+[![潮玩新品官宣](assets/readme-previews/designer-toy-launch-poster.webp)](templates/designer-toy-launch-poster.html)
+
 
 提示词说明：建议保留“新品发布海报、设计师玩具风格、透明展示窗、品牌发布构图、渐变灯光、收藏欲”这些核心描述。
 
@@ -828,6 +938,11 @@
 - 分类：二次元/漫画 / 漫画分镜
 - 标签：三格漫画、故事板、风格化分镜、漫画分镜、二次元/漫画
 
+效果图：
+
+[![三格漫画故事板](assets/readme-previews/three-panel-comic-story.webp)](templates/three-panel-comic-story.html)
+
+
 提示词说明：例如可替换为“粗犷的黑色电影艺术风格、赛博霓虹、治愈手绘、水彩青春、复古美漫”；场景可替换为“雨夜街头、校园走廊、废墟都市、咖啡馆、天台”等。
 
 提示词：
@@ -845,6 +960,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/neon-hk-cinema
 - 分类：AI变装 / 港风夜色
 - 标签：港片夜色、霓虹街头、宽银幕电影、港风夜色、AI变装
+
+效果图：
+
+[![港片霓虹风](assets/readme-previews/neon-hk-cinema.webp)](templates/neon-hk-cinema.html)
+
 
 提示词说明：建议保留“90年代港片、霓虹反射、湿地面高光、电影颗粒、青绿色与洋红色偏色、宽银幕构图”这些核心描述。
 
@@ -864,6 +984,11 @@
 - 分类：IP形象/手办 / 盲盒包装
 - 标签：高端包装、潮玩盲盒、电商主图、盲盒包装、IP形象/手办
 
+效果图：
+
+[![高端盲盒包装](assets/readme-previews/premium-blindbox-retail-packaging.webp)](templates/premium-blindbox-retail-packaging.html)
+
+
 提示词说明：建议保留“Q版但高质感、透明开窗、圆角包装、吸塑内托、高级印刷、潮玩品牌电商主图”这些核心描述。
 
 提示词：
@@ -881,6 +1006,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/healing-watercolor-brand-poster
 - 分类：二次元/漫画 / 品牌海报
 - 标签：动画水彩、治愈系、品牌海报、二次元/漫画
+
+效果图：
+
+[![治愈系动画水彩](assets/readme-previews/healing-watercolor-brand-poster.webp)](templates/healing-watercolor-brand-poster.html)
+
 
 提示词说明：可继续补充“治愈感、温柔感、日常幸福感、慢生活感、轻盈感、自然呼吸感、少女感、温暖陪伴感”等品牌情绪词。
 
@@ -902,6 +1032,11 @@
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志封面、90年代超模、时尚大片、杂志/海报、AI变装
 
+效果图：
+
+[![90年代杂志风](assets/readme-previews/retro-magazine-cover.webp)](templates/retro-magazine-cover.html)
+
+
 提示词说明：建议保留“保留真实五官、90年代时尚杂志封面、主光+轮廓光、纯色影棚、胶片颗粒、老杂志印刷感”这些核心描述。
 
 提示词：
@@ -920,6 +1055,11 @@
 - 分类：IP形象/手办 / 萌系盲盒
 - 标签：Q版公仔、萌系盲盒、治愈潮玩、IP形象/手办
 
+效果图：
+
+[![Q版萌系盲盒](assets/readme-previews/cute-chibi-blindbox-figure.webp)](templates/cute-chibi-blindbox-figure.html)
+
+
 提示词说明：建议保留“可爱Q版、保留五官辨识度、透明窗口包装、透明亚克力底座、治愈精致、爆款盲盒新品宣传图”这些核心描述。
 
 提示词：
@@ -937,6 +1077,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/cyber-neon-functional-visual
 - 分类：二次元/漫画 / 机能海报
 - 标签：赛博霓虹、未来都市、机能风、机能海报、二次元/漫画
+
+效果图：
+
+[![赛博霓虹机能](assets/readme-previews/cyber-neon-functional-visual.webp)](templates/cyber-neon-functional-visual.html)
+
 
 提示词说明：可继续补充“科技感、速度感、夜能量、年轻潮流感、都市进攻性、未来街头感、爆发力、高传播冲击力”等品牌情绪词。
 
@@ -958,6 +1103,11 @@
 - 分类：AI变装 / 复古胶片
 - 标签：90年代、胶片写真、女神风、复古胶片、AI变装
 
+效果图：
+
+[![胶片女神风](assets/readme-previews/retro-film-goddess.webp)](templates/retro-film-goddess.html)
+
+
 提示词说明：建议保留“保留真实五官、90年代复古胶片、强烈直闪、舞厅聚光灯、胶片颗粒、轻微褪色”这些核心描述，再补亮片礼服、妆容和镜头距离。
 
 提示词：
@@ -975,6 +1125,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/action-figure-blister-pack
 - 分类：IP形象/手办 / Action Figure
 - 标签：Action Figure、吸塑包装、玩具货架、IP形象/手办
+
+效果图：
+
+[![吸塑盒装手办](assets/readme-previews/action-figure-blister-pack.webp)](templates/action-figure-blister-pack.html)
+
 
 提示词说明：建议保留“透明吸塑包装、Action Figure、挂孔设计、独立配件区、正版零售玩具、货架展示风”这些核心描述。
 
@@ -994,6 +1149,11 @@
 - 分类：AI变装 / 千禧Y2K
 - 标签：Y2K、直闪自拍、千禧感、千禧Y2K、AI变装
 
+效果图：
+
+[![Y2K闪光风](assets/readme-previews/y2k-flash-selfie.webp)](templates/y2k-flash-selfie.html)
+
+
 提示词说明：建议保留“Y2K、数码相机直闪、偏粉紫或偏蓝色调、轻微过曝、时间戳感、压缩噪点”这些核心描述，再补发夹和服饰。
 
 提示词：
@@ -1012,6 +1172,11 @@
 - 分类：IP形象/手办 / 潮玩盲盒
 - 标签：设计师玩具、潮玩盲盒、爆款新品、IP形象/手办
 
+效果图：
+
+[![潮玩盲盒风](assets/readme-previews/trendy-designer-blindbox-figure.webp)](templates/trendy-designer-blindbox-figure.html)
+
+
 提示词说明：建议保留“设计师玩具气质、略可爱化比例、透明窗口、系列编号标签、成人收藏潮玩、社交传播感”这些核心描述。
 
 提示词：
@@ -1029,6 +1194,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/future-designer-toy-avatar
 - 分类：社媒内容 / 社媒头像
 - 标签：潮玩头像、Q版角色、品牌IP、社媒头像、社媒内容
+
+效果图：
+
+[![未来潮玩盲盒风](assets/readme-previews/future-designer-toy-avatar.webp)](templates/future-designer-toy-avatar.html)
+
 
 提示词说明：可继续补充“可爱高级感、收藏欲、潮流感、社媒头像感、年轻治愈感、联名感、角色 IP 感、高辨识度”等词。
 
@@ -1050,6 +1220,11 @@
 - 分类：IP形象/手办 / 收藏陈列
 - 标签：收藏柜、高级手办、陈列展示、收藏陈列、IP形象/手办
 
+效果图：
+
+[![收藏柜手办](assets/readme-previews/display-cabinet-collectible-figure.webp)](templates/display-cabinet-collectible-figure.html)
+
+
 提示词说明：建议保留“收藏柜陈列、高级手办、透明亚克力底座、包装盒半展示、高端收藏柜灯带光影、资深收藏玩家”这些核心描述。
 
 提示词：
@@ -1067,6 +1242,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/nineties-film-story-poster
 - 分类：社媒内容 / 胶片叙事
 - 标签：90年代胶片、宝丽来、真实抓拍、胶片叙事、社媒内容
+
+效果图：
+
+[![90年代叙事胶片](assets/readme-previews/nineties-film-story-poster.webp)](templates/nineties-film-story-poster.html)
+
 
 提示词说明：可继续补充“怀旧感、青春感、真实感、抓拍感、旧相册感、反精致化、颗粒感、胶片浪漫”等词。
 
@@ -1088,6 +1268,11 @@
 - 分类：电商 / 卖点解构
 - 标签：分层展示、卖点解构、成分展示、电商
 
+效果图：
+
+[![分层解构展示](assets/readme-previews/exploded-selling-point-product-shot.webp)](templates/exploded-selling-point-product-shot.html)
+
+
 提示词说明：建议保留“唯一参考图、底部主成品展示、上方垂直悬浮分层展示、纯黑或深色高级影棚、强对比轮廓光、核心卖点展示”这些核心描述。
 
 提示词：
@@ -1107,6 +1292,11 @@
 - 分类：AI变装 / 千禧Y2K
 - 标签：CCD旧照、校园风、青春抓拍、千禧Y2K、AI变装
 
+效果图：
+
+[![CCD校园风](assets/readme-previews/ccd-campus-photo.webp)](templates/ccd-campus-photo.html)
+
+
 提示词说明：建议保留“CCD、校园旧照片、朋友随手拍、轻微模糊、曝光略高、旧相册感”这些核心描述，再补服装和场景。
 
 提示词：
@@ -1124,6 +1314,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/hong-kong-nightclub-film
 - 分类：AI变装 / 港风夜色
 - 标签：港风复古、夜店胶片、霓虹抓拍、港风夜色、AI变装
+
+效果图：
+
+[![港风夜店胶片风](assets/readme-previews/hong-kong-nightclub-film.webp)](templates/hong-kong-nightclub-film.html)
+
 
 提示词说明：建议保留“港风复古、霓虹灯、强烈直闪、洋红+青绿偏色、胶片颗粒”这些核心描述，再补具体服饰和夜生活场景。
 
@@ -1143,6 +1338,11 @@
 - 分类：产品摄影 / 香水/美妆
 - 标签：香水/美妆、护肤品商拍、产品渲染、产品摄影
 
+效果图：
+
+[![护肤品爆款](assets/readme-previews/skincare-bestseller.webp)](templates/skincare-bestseller.html)
+
+
 提示词说明：如果你想让风格更像精华广告或保湿大片，可以继续补充“水润、清透、冰感、植萃、轻盈”这类氛围词。
 
 提示词：
@@ -1160,6 +1360,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/old-movie-poster-star
 - 分类：AI变装 / 杂志/海报
 - 标签：电影海报、女主角、戏剧感、杂志/海报、AI变装
+
+效果图：
+
+[![老电影海报风](assets/readme-previews/old-movie-poster-star.webp)](templates/old-movie-poster-star.html)
+
 
 提示词说明：建议保留“老电影海报、戏剧光影、纸张纹理、胶片颗粒、边缘磨损、暖色偏黄”这些核心描述。
 
@@ -1179,6 +1384,11 @@
 - 分类：产品摄影 / 香水/美妆
 - 标签：香水/美妆、奢华商拍、浪漫香氛、产品摄影
 
+效果图：
+
+[![香水爆款](assets/readme-previews/perfume-bestseller.webp)](templates/perfume-bestseller.html)
+
+
 提示词说明：如果你想更偏清冷高级或花果香氛，可以继续增加“冷调玻璃、花瓣、轻雾、金属反射、柔和香气粒子”等描述。
 
 提示词：
@@ -1196,6 +1406,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/bollywood-sari-retro
 - 分类：AI变装 / 复古胶片
 - 标签：宝莱坞、沙丽写真、电影海报、复古胶片、AI变装
+
+效果图：
+
+[![宝莱坞沙丽复古风](assets/readme-previews/bollywood-sari-retro.webp)](templates/bollywood-sari-retro.html)
+
 
 提示词说明：建议保留“保留真实五官、沙丽、复古红唇、彩色舞台灯光、胶片颗粒、复古电影海报”这些核心描述，再补色彩和配饰。
 
@@ -1215,6 +1430,11 @@
 - 分类：产品摄影 / 数码产品
 - 标签：数码产品、科技感、商业渲染、产品摄影
 
+效果图：
+
+[![数码科技爆款](assets/readme-previews/digital-tech-bestseller.webp)](templates/digital-tech-bestseller.html)
+
+
 提示词说明：如果你想更像旗舰发布会广告，可以补充“冷蓝光、能量线条、暗色空间、精密结构、高级反射”等描述。
 
 提示词：
@@ -1232,6 +1452,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/brand-collab
 - 分类：广告创意 / 品牌联名海报
 - 标签：品牌联名海报、Campaign主视觉、二次元广告、广告创意
+
+效果图：
+
+[![品牌联名主视觉](assets/readme-previews/brand-collab.webp)](templates/brand-collab.html)
+
 
 提示词说明：如果你不是做联名可乐海报，重点替换角色设定、Logo 文案和环境品牌元素。
 
@@ -1251,6 +1476,11 @@
 - 分类：AI变装 / 明星抓拍
 - 标签：狗仔抓拍、明星街拍、90年代夜拍、明星抓拍、AI变装
 
+效果图：
+
+[![明星狗仔风](assets/readme-previews/paparazzi-film-snap.webp)](templates/paparazzi-film-snap.html)
+
+
 提示词说明：建议保留“明星狗仔抓拍、夜晚街头、直闪灯、轻微失焦、胶片颗粒、八卦杂志偷拍感”这些核心描述。
 
 提示词：
@@ -1269,6 +1499,11 @@
 - 分类：产品摄影 / 高级静物
 - 标签：高级静物、静奢风、品牌KV、产品摄影
 
+效果图：
+
+[![高级静奢版](assets/readme-previews/quiet-luxury-product.webp)](templates/quiet-luxury-product.html)
+
+
 提示词说明：如果你想更偏珠宝、护肤或家居高端品牌，可以继续补充“丝绸、石材、磨砂玻璃、柔光金属、留白、克制高级”等词。
 
 提示词：
@@ -1286,6 +1521,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/japanese-tea-drink-poster
 - 分类：广告创意 / 茶饮海报
 - 标签：日式茶饮、茶饮海报、清爽广告、广告创意
+
+效果图：
+
+[![海报生成](assets/readme-previews/japanese-tea-drink-poster.webp)](templates/japanese-tea-drink-poster.html)
+
 
 提示词说明：可继续补充“抹茶拿铁、冷泡绿茶、乌龙茶、玄米茶、夏季限定、冰爽、茶室、浅木色、自然茶香、门店新品”等词。
 
@@ -1307,6 +1547,11 @@
 - 分类：产品摄影 / 高级静物
 - 标签：高级静物、产品摄影、品牌商拍
 
+效果图：
+
+[![高端产品生成](assets/readme-previews/luxury-product-shot.webp)](templates/luxury-product-shot.html)
+
+
 提示词说明：建议先把 [纹理表面] 和 [辅助物品] 替换成你想要的具体元素，例如“大理石台面、亚麻布、玻璃珠、水滴、花瓣”等。
 
 提示词：
@@ -1325,6 +1570,11 @@
 - 分类：广告创意 / 草图细化
 - 标签：草图细化、简笔画成品、创意转化、广告创意
 
+效果图：
+
+[![让事物焕发活力](assets/readme-previews/sketch-to-polished-visual.webp)](templates/sketch-to-polished-visual.html)
+
+
 提示词说明：例如可填“主体=汽车 / 玩具 / 建筑 / 产品包装；风格=工业设计渲染 / 潮流插画 / 科幻广告；特定特征=轮廓线、车头比例、表情；新增细节=金属材质、玻璃反射、表面纹理、灯光结构”。
 
 提示词：
@@ -1342,6 +1592,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/neoglo-logo
 - 分类：Logo/字体 / Logo概念
 - 标签：科技品牌、渐变标识、Logo提案、Logo概念、Logo/字体
+
+效果图：
+
+[![渐变品牌Logo](assets/readme-previews/neoglo-logo.webp)](templates/neoglo-logo.html)
+
 
 提示词说明：使用前请先把 “[INDUSTRY TYPE]” 和 “NAME” 替换成自己的行业与品牌名。
 
@@ -1372,6 +1627,11 @@
 - 分类：Logo/字体 / Logo概念
 - 标签：黄金分割、拉丝黄金、商务Logo、Logo概念、Logo/字体
 
+效果图：
+
+[![24K矢量金线](assets/readme-previews/24k-gold-vector-lines.webp)](templates/24k-gold-vector-lines.html)
+
+
 提示词说明：如果想更正式、更可靠，可继续补充“稳重、专业、机构感、可靠、昂贵、秩序感”等关键词。
 
 提示词：
@@ -1389,6 +1649,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/retro-cel-vhs-poster
 - 分类：二次元/漫画 / 复古动画
 - 标签：赛璐璐、VHS 怀旧、动画海报、复古动画、二次元/漫画
+
+效果图：
+
+[![复古动画海报](assets/readme-previews/retro-cel-vhs-poster.webp)](templates/retro-cel-vhs-poster.html)
+
 
 提示词说明：可继续补充“怀旧感、青春感、热血感、复古潮流感、亚文化感、情绪感、旧时代胶片浪漫、经典感”等品牌情绪词。
 
@@ -1410,6 +1675,11 @@
 - 分类：社媒内容 / 东方封面
 - 标签：新中式、写意插画、东方高定、东方封面、社媒内容
 
+效果图：
+
+[![新中式品牌风](assets/readme-previews/new-chinese-ink-brand-visual.webp)](templates/new-chinese-ink-brand-visual.html)
+
+
 提示词说明：可继续补充“贵气感、东方克制美学、高定感、国风现代感、节日仪式感、高端女性感、高奢东方感、文化辨识度”等词。
 
 提示词：
@@ -1429,6 +1699,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/zen-minimal-product-shot
 - 分类：产品摄影 / 极简静物
 - 标签：禅意极简、高端静物、东方疗愈、极简静物、产品摄影
+
+效果图：
+
+[![禅意极简](assets/readme-previews/zen-minimal-product-shot.webp)](templates/zen-minimal-product-shot.html)
+
 
 提示词说明：如需批量化可把提示词里的【产品】和【卖点】替换成你的具体产品名与卖点，比如纯净感、高级感、舒缓感、东方疗愈感、天然植萃感。
 
@@ -1450,6 +1725,11 @@
 - 分类：产品摄影 / 科技渲染
 - 标签：赛博朋克、未来科技、蓝紫霓虹、科技渲染、产品摄影
 
+效果图：
+
+[![赛博科技](assets/readme-previews/cyber-tech-product-shot.webp)](templates/cyber-tech-product-shot.html)
+
+
 提示词说明：可以继续补充“蓝紫霓虹、焦散光、LED 边缘光、黑灰渐变背景、高反差切边光、悬浮动态”等关键词强化科技感。
 
 提示词：
@@ -1469,6 +1749,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/natural-forest-product-shot
 - 分类：产品摄影 / 自然成分
 - 标签：自然森系、丁达尔光、天然植萃、自然成分、产品摄影
+
+效果图：
+
+[![自然森系](assets/readme-previews/natural-forest-product-shot.webp)](templates/natural-forest-product-shot.html)
+
 
 提示词说明：如果需要批量化，可把提示词里的【产品】替换成具体产品名，并结合“天然成分、生命力、纯净有机感”等关键词使用。
 
@@ -1490,6 +1775,11 @@
 - 分类：产品摄影 / 高奢静物
 - 标签：丝绒静物、奢侈品摄影、戏剧光影、高奢静物、产品摄影
 
+效果图：
+
+[![高奢丝绒](assets/readme-previews/luxury-velvet-product-shot.webp)](templates/luxury-velvet-product-shot.html)
+
+
 提示词说明：可以继续补充“酒红丝绒、黑色丝绒、顶部聚光、戏剧性阴影、高反差、稀缺感、博物馆级陈列感”等附加词。
 
 提示词：
@@ -1509,6 +1799,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/pop-acid-product-shot
 - 分类：产品摄影 / 年轻潮流
 - 标签：波普艺术、高饱和撞色、年轻传播、年轻潮流、产品摄影
+
+效果图：
+
+[![波普酸性](assets/readme-previews/pop-acid-product-shot.webp)](templates/pop-acid-product-shot.html)
+
 
 提示词说明：如需更鲜明效果，可补“荧光黄、亮粉、湖蓝、酸橙绿、硬质光影、鲜明阴影边界、传播感强”等关键词。
 
@@ -1530,6 +1825,11 @@
 - 分类：广告创意 / 品牌KV
 - 标签：工业级3D、极简陈列、品牌广告、品牌KV、广告创意
 
+效果图：
+
+[![极致3D极简美学](assets/readme-previews/ultra-3d-minimal-aesthetic.webp)](templates/ultra-3d-minimal-aesthetic.html)
+
+
 提示词说明：如需强化品牌表达，可继续补充“高级科技感、专业感、精密感、未来感、高端品牌感、冷静理性美学”等卖点词。
 
 提示词：
@@ -1549,6 +1849,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/surreal-nature-symbiosis
 - 分类：广告创意 / 品牌KV
 - 标签：自然共生、生态艺术、超现实叙事、品牌KV、广告创意
+
+效果图：
+
+[![超现实自然共生](assets/readme-previews/surreal-nature-symbiosis.webp)](templates/surreal-nature-symbiosis.html)
+
 
 提示词说明：可继续补充“可持续理念、天然成分、生命力、呼吸感、自然共生、绿色品牌叙事、高记忆点传播感”等卖点词。
 
@@ -1570,6 +1875,11 @@
 - 分类：广告创意 / 品牌海报
 - 标签：赛博波普、复古未来主义、年轻潮流、品牌海报、广告创意
 
+效果图：
+
+[![复古未来主义插画](assets/readme-previews/retro-futurism-pop-poster.webp)](templates/retro-futurism-pop-poster.html)
+
+
 提示词说明：如果想更强化潮流感，可继续补充“高饱和霓虹色彩、颗粒感胶片质感、拼贴艺术、巨大落日、年轻潮流”等词。
 
 提示词：
@@ -1590,6 +1900,11 @@
 - 分类：IP形象/手办 / 3D卡通形象
 - 标签：3D卡通形象、表情贴纸、Pixar风格、IP形象/手办
 
+效果图：
+
+[![3D卡通贴纸包](assets/readme-previews/3d-sticker-pack.webp)](templates/3d-sticker-pack.html)
+
+
 提示词说明：建议保留“Pixar 风格、12 格贴纸、白色描边、网格布局”这些核心描述，再补充服装、发色、妆容或表情风格。
 
 提示词：
@@ -1608,6 +1923,11 @@
 - 分类：电商 / AI换模特
 - 标签：AI换模特、多风格主图、批量上新、电商
 
+效果图：
+
+[![AI换模特主图](assets/readme-previews/ai-model-swap.webp)](templates/ai-model-swap.html)
+
+
 提示词说明：如果你要改成人群定向版本，可以直接补充“轻熟、欧美、学院风、运动感”等模特气质词。
 
 提示词：
@@ -1625,6 +1945,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/anime-concept
 - 分类：二次元/漫画 / 游戏立绘
 - 标签：游戏立绘、动画概念、梦幻插画、二次元/漫画
+
+效果图：
+
+[![现代动画概念美术](assets/readme-previews/anime-concept.webp)](templates/anime-concept.html)
+
 
 提示词说明：如果你要更偏国风、美漫或儿童绘本，可以在默认提示词后追加风格限制词。
 
@@ -1649,6 +1974,11 @@
 - 分类：人物写真 / 多视角
 - 标签：多视角、人物转面、摄影棚人像、人物写真
 
+效果图：
+
+[![角色360度全景](assets/readme-previews/character-360-panorama.webp)](templates/character-360-panorama.html)
+
+
 提示词说明：使用前先把 `[人物]` 和 `[背景]` 换成具体描述，例如“短发女孩”“浅灰无缝影棚背景”。如果只需要单个角度，也可以删掉多余视角描述。
 
 提示词：
@@ -1667,6 +1997,11 @@
 - 分类：人物写真 / 情绪大片
 - 标签：情绪大片、电影感肖像、艺术人像、人物写真
 
+效果图：
+
+[![电影肖像照](assets/readme-previews/cinematic-portrait.webp)](templates/cinematic-portrait.html)
+
+
 提示词说明：建议保留“电影风格影棚肖像、陶瓷半身像、柔和咖啡馆式灯光、温馨电影色调”这些核心描述，再补充服装、妆容或桌面细节。
 
 提示词：
@@ -1684,6 +2019,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/custom-claw-machine
 - 分类：IP形象/手办 / 毛绒公仔
 - 标签：毛绒公仔、娃娃机、宠物玩偶化、IP形象/手办
+
+效果图：
+
+[![自定义娃娃机](assets/readme-previews/custom-claw-machine.webp)](templates/custom-claw-machine.html)
+
 
 提示词说明：建议保留“UFO 捞娃娃机、短绒毛绒材质、日本游戏中心、无文字无标志”这些核心描述，再按需要补充动物表情、颜色和机台氛围。
 
@@ -1709,6 +2049,11 @@
 - 分类：电商 / 鞋帽上身
 - 标签：鞋帽上身、自定义上传、服装搭配、电商
 
+效果图：
+
+[![服装上身](assets/readme-previews/custom-clothing-upperbody.webp)](templates/custom-clothing-upperbody.html)
+
+
 提示词说明：建议保留默认提示词里的主体、风格、构图和光影描述，再补充你的具体需求。
 
 提示词：
@@ -1727,6 +2072,11 @@
 - 分类：电商 / 细节图
 - 标签：细节图、材质展示、工艺特写、电商
 
+效果图：
+
+[![商品细节特写图](assets/readme-previews/detail-shot-generator.webp)](templates/detail-shot-generator.html)
+
+
 提示词说明：如果你想突出某个细节点，可以直接把“领口、袖口、走线、金属扣、面料纹理”写进提示词。
 
 提示词：
@@ -1744,6 +2094,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/fashion-catalog
 - 分类：电商 / Banner横幅
 - 标签：Banner横幅、时尚上新、服装图册、电商
+
+效果图：
+
+[![时尚双栏电商图册](assets/readme-previews/fashion-catalog.webp)](templates/fashion-catalog.html)
+
 
 提示词说明：想改成别的服装风格时，直接替换单品名称、价格区和人物造型描述即可。
 
@@ -1794,6 +2149,11 @@
 - 分类：电商 / 平铺图
 - 标签：平铺图、商品陈列、组合套装、电商
 
+效果图：
+
+[![商品平铺图生成](assets/readme-previews/flat-lay-generator.webp)](templates/flat-lay-generator.html)
+
+
 提示词说明：如果你想做节日礼盒或组合套装，可以继续补“礼盒、丝带、包装卡片”等元素。
 
 提示词：
@@ -1811,6 +2171,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/floating-product-render
 - 分类：产品摄影 / 高级静物
 - 标签：高级静物、悬浮渲染、商业广告、产品摄影
+
+效果图：
+
+[![电商产品悬浮渲染](assets/readme-previews/floating-product-render.webp)](templates/floating-product-render.html)
+
 
 提示词说明：如果你想让画面更贴近产品属性，可以补充“水感、玻璃、金属、植物、丝绸、雾气”等动态元素关键词。
 
@@ -1830,6 +2195,11 @@
 - 分类：AI变装 / 二次元变身
 - 标签：二次元变身、旅行照、吉卜力风格、AI变装
 
+效果图：
+
+[![吉卜力旅行照](assets/readme-previews/ghibli-travel-photo.webp)](templates/ghibli-travel-photo.html)
+
+
 提示词说明：建议保留吉卜力风格、柔和水彩质感和治愈感这些核心描述，再补充地点、天气、服装或季节氛围。
 
 提示词：
@@ -1847,6 +2217,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/giant-scaffold-person
 - 分类：场景创意 / 不可能场景
 - 标签：不可能场景、巨型人物、城市奇观、场景创意
+
+效果图：
+
+[![巨型人物脚手架](assets/readme-previews/giant-scaffold-person.webp)](templates/giant-scaffold-person.html)
+
 
 提示词说明：建议保留“巨型人物、脚手架、建筑工人、城市广场、电影级灯光”这些核心描述，再补充服装风格、表情、镜头角度和天气氛围。
 
@@ -1866,6 +2241,11 @@
 - 分类：场景创意 / 微缩世界
 - 标签：微缩世界、玻璃瓶模型、收藏人偶、场景创意
 
+效果图：
+
+[![玻璃瓶纪念品](assets/readme-previews/glass-bottle-souvenir.webp)](templates/glass-bottle-souvenir.html)
+
+
 提示词说明：建议保留“1/7比例、透明纪念品玻璃瓶、沙滩环境、收藏级微缩模型”这些核心描述，再补充人物服装、姿态和瓶内细节。
 
 提示词：
@@ -1883,6 +2263,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/id-photo
 - 分类：人物写真 / 证件照/职业照
 - 标签：证件照/职业照、蓝底证件照、正装人像、人物写真
+
+效果图：
+
+[![制作证件照](assets/readme-previews/id-photo.webp)](templates/id-photo.html)
+
 
 提示词说明：建议保留“2寸证件照、蓝底、职业正装、正脸、微笑”这些核心要求，再补充发型整理、领口平整、肤色自然等细节。
 
@@ -1905,6 +2290,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/inner-child-healing
 - 分类：人物写真 / 情绪大片
 - 标签：情绪大片、疗愈场景、成长对话、人物写真
+
+效果图：
+
+[![对童年的自己治疗](assets/readme-previews/inner-child-healing.webp)](templates/inner-child-healing.html)
+
 
 提示词说明：生成前请先把 [服装] 替换成你需要的衣着描述，再按需要补充年龄感、发型或空间氛围。
 
@@ -1930,6 +2320,11 @@
 - 分类：人物写真 / 上传自拍
 - 标签：上传自拍、时尚大片、适合小红书、人物写真
 
+效果图：
+
+[![AI 变装写真](assets/readme-previews/makeover.webp)](templates/makeover.html)
+
+
 提示词说明：上传一张半身照，快速做成时尚大片或职业形象照。
 
 提示词：
@@ -1947,6 +2342,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/miniature-scene
 - 分类：场景创意 / 微缩世界
 - 标签：微缩世界、立体模型、场景切片、场景创意
+
+效果图：
+
+[![立方体微缩](assets/readme-previews/miniature-scene.webp)](templates/miniature-scene.html)
+
 
 提示词说明：这个模板里占位符很多，提交前建议先把场景、角色和材质全部替换成自己的内容。
 
@@ -1973,6 +2373,11 @@
 - 分类：电商 / 换姿势
 - 标签：换姿势、多角度展示、同款图、电商
 
+效果图：
+
+[![模特换姿势同款图](assets/readme-previews/model-pose-variation.webp)](templates/model-pose-variation.html)
+
+
 提示词说明：如果你想强调站姿、走路感或回头动作，可以直接在提示词里写明动作类型。
 
 提示词：
@@ -1990,6 +2395,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/multi-hairstyle-grid
 - 分类：AI变装 / 写真
 - 标签：写真、发型替换、九宫格头像、AI变装
+
+效果图：
+
+[![更换多种发型](assets/readme-previews/multi-hairstyle-grid.webp)](templates/multi-hairstyle-grid.html)
+
 
 提示词说明：建议保留“九宫格、同一人物、不同发型、头像”这些核心描述，再补充短发、长卷发、刘海、染发色或风格方向。
 
@@ -2009,6 +2419,11 @@
 - 分类：电商 / 一键换装
 - 标签：一键换装、服饰上新、模特穿搭、电商
 
+效果图：
+
+[![一键换装上新图](assets/readme-previews/one-click-outfit.webp)](templates/one-click-outfit.html)
+
+
 提示词说明：如果要做针织、羽绒、连衣裙等不同品类，直接在提示词里换成对应服饰名称即可。
 
 提示词：
@@ -2026,6 +2441,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/ootd-styling
 - 分类：电商 / 一键换装
 - 标签：一键换装、OOTD穿搭、街头时尚、电商
+
+效果图：
+
+[![OOTD穿搭](assets/readme-previews/ootd-styling.webp)](templates/ootd-styling.html)
+
 
 提示词说明：建议保留“保持人物身份和姿势不变、穿上图2全部服装和配饰、自然光、街头风格、全身镜头”这些核心描述，再补充地点、天气或穿搭氛围。
 
@@ -2045,6 +2465,11 @@
 - 分类：产品摄影 / 香水/美妆
 - 标签：香水/美妆、高级静物、浪漫花瓣、产品摄影
 
+效果图：
+
+[![柔美浪漫香水商拍](assets/readme-previews/perfume-romance.webp)](templates/perfume-romance.html)
+
+
 提示词说明：如果是别的商品，把“香水瓶、花瓣、水面”替换成自己的材质和道具就可以继续用。
 
 提示词：
@@ -2062,6 +2487,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/person-outfit-swap
 - 分类：电商 / 一键换装
 - 标签：一键换装、服饰替换、人物试穿、电商
+
+效果图：
+
+[![人物换衣](assets/readme-previews/person-outfit-swap.webp)](templates/person-outfit-swap.html)
+
 
 提示词说明：建议保留“保持人物姿势、表情、背景和真实感不变，只改变衣服”这类核心描述，再补充服装材质、颜色、袖型或版型细节。
 
@@ -2081,6 +2511,11 @@
 - 分类：IP形象/手办 / 潮玩手办
 - 标签：潮玩手办、人物玩具化、包装提案、IP形象/手办
 
+效果图：
+
+[![照片变玩偶](assets/readme-previews/photo-toy.webp)](templates/photo-toy.html)
+
+
 提示词说明：如果不是做球星玩具，请把人物名、装备清单和包装文字替换成自己的内容。
 
 提示词：
@@ -2098,6 +2533,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/pink-tsundere-portrait
 - 分类：人物写真 / 情绪大片
 - 标签：情绪大片、粉色影棚、傲娇神态、人物写真
+
+效果图：
+
+[![粉调傲娇定格照](assets/readme-previews/pink-tsundere-portrait.webp)](templates/pink-tsundere-portrait.html)
+
 
 提示词说明：建议保留“第 1 张参考图控风格、第 2 张参考图控身份、发型服装不变、轻傲娇表情、粉色影棚背景”这些核心描述，再补充镜头远近或手势细节。
 
@@ -2133,6 +2573,11 @@
 - 分类：IP形象/手办 / 3D卡通形象
 - 标签：3D卡通形象、头像、Pixar风格、IP形象/手办
 
+效果图：
+
+[![皮克斯风格](assets/readme-previews/pixar-avatar.webp)](templates/pixar-avatar.html)
+
+
 提示词说明：建议保留 Pixar 风格、白底、柔和光照这些核心描述，再补充发型、服装或镜头远近。
 
 提示词：
@@ -2158,6 +2603,11 @@
 - 分类：AI变装 / 古风/汉服
 - 标签：古风/汉服、旗袍变装、复古大片、AI变装
 
+效果图：
+
+[![复古旗袍名媛风](assets/readme-previews/qipao-gala.webp)](templates/qipao-gala.html)
+
+
 提示词说明：建议保留“第1张参考图、第2张参考图”这类描述，再在后面补充你的发型、镜头距离、身高感和节日道具需求。
 
 提示词：
@@ -2182,6 +2632,11 @@
 - 分类：电商 / 鞋帽上身
 - 标签：鞋帽上身、模特展示、单品穿搭、电商
 
+效果图：
+
+[![鞋帽上身展示图](assets/readme-previews/shoe-hat-styling.webp)](templates/shoe-hat-styling.html)
+
+
 提示词说明：如果你想强调季节感，可以直接补充“春夏通勤、秋冬街头、极简高级感”这类风格词。
 
 提示词：
@@ -2199,6 +2654,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/social-ninegrid
 - 分类：社媒内容 / 社交媒体九宫格
 - 标签：社交媒体九宫格、小红书封面、写真拼贴、社媒内容
+
+效果图：
+
+[![九宫格精致写真](assets/readme-previews/social-ninegrid.webp)](templates/social-ninegrid.html)
+
 
 提示词说明：如果你不需要红色礼服或九种固定表情，可以直接在默认提示词里替换造型和姿态。
 
@@ -2235,6 +2695,11 @@
 - 分类：电商 / 虚拟试穿
 - 标签：虚拟试穿、商城转化、服饰体验、电商
 
+效果图：
+
+[![电商虚拟试穿](assets/readme-previews/virtual-try-on.webp)](templates/virtual-try-on.html)
+
+
 提示词说明：如果你想做商城体验页，可以补“白底、商品信息区、试穿页展示感”这类描述。
 
 提示词：
@@ -2252,6 +2717,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/vogue-cover
 - 分类：人物写真 / 杂志封面
 - 标签：杂志封面、时尚肖像、情绪大片、人物写真
+
+效果图：
+
+[![Vogue封面](assets/readme-previews/vogue-cover.webp)](templates/vogue-cover.html)
+
 
 提示词说明：如果你不想要“爱心手势”或狗仔镜头，可以删掉对应动作和环境描述。
 
@@ -2287,6 +2757,11 @@
 - 分类：电商 / 商品主图
 - 标签：商品主图、广告质感、突出卖点、电商
 
+效果图：
+
+[![电商商品海报](assets/readme-previews/ecommerce.webp)](templates/ecommerce.html)
+
+
 提示词说明：把“玻璃质感、晨雾蓝、爆款卖点、节日促销”追加到默认提示词即可。
 
 提示词：
@@ -2304,6 +2779,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/food
 - 分类：广告创意 / 菜单头图
 - 标签：菜单头图、暖光美食、活动海报、广告创意
+
+效果图：
+
+[![餐饮菜单大片](assets/readme-previews/food.webp)](templates/food.html)
+
 
 提示词说明：补充“炭火感、夜市感、法餐桌面、节日套餐”等词会更贴近实际场景。
 
@@ -2323,6 +2803,11 @@
 - 分类：二次元/漫画 / 绘本封面
 - 标签：绘本封面、亲子内容、温暖色彩、二次元/漫画
 
+效果图：
+
+[![儿童绘本插画](assets/readme-previews/kids.webp)](templates/kids.html)
+
+
 提示词说明：可以加上“水彩、蜡笔、纸本质感、轻童话、课堂海报”等风格方向。
 
 提示词：
@@ -2340,6 +2825,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/poster
 - 分类：广告创意 / 节日营销
 - 标签：节日营销、短视频封面、活动转化、广告创意
+
+效果图：
+
+[![节日营销海报](assets/readme-previews/poster.webp)](templates/poster.html)
+
 
 提示词说明：可以把“春节上新、七夕限定、夏季大促、品牌周年庆”等节点词直接加进去。
 
@@ -2359,6 +2849,11 @@
 - 分类：IP形象/手办 / 盲盒包装
 - 标签：盲盒包装、3D 公仔、品牌贴纸、IP形象/手办
 
+效果图：
+
+[![潮玩玩具包装](assets/readme-previews/toy.webp)](templates/toy.html)
+
+
 提示词说明：可补充“赛博霓虹、奶油萌系、复古限定、金属徽章”等包装风格。
 
 提示词：
@@ -2376,6 +2871,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/retro-photo-booth-sticker
 - 分类：AI变装 / 千禧Y2K
 - 标签：大头贴、拍贴机、拼贴照片、千禧Y2K、AI变装
+
+效果图：
+
+[![复古大头贴](assets/readme-previews/retro-photo-booth-sticker.webp)](templates/retro-photo-booth-sticker.html)
+
 
 提示词说明：建议保留“多格拼贴、拍贴机、强烈直闪、柔焦、粉紫色偏、贴纸边框、手写日期”这些核心描述。
 
@@ -2395,6 +2895,11 @@
 - 分类：AI变装 / 生活记录
 - 标签：婚礼录像、DV截图、家庭纪念、生活记录、AI变装
 
+效果图：
+
+[![复古婚礼录像风](assets/readme-previews/retro-wedding-video.webp)](templates/retro-wedding-video.html)
+
+
 提示词说明：建议保留“婚礼录像截图、DV、时间戳、偏暖偏黄、低对比度、边缘模糊、随手拍”这些核心描述。
 
 提示词：
@@ -2413,6 +2918,11 @@
 - 分类：AI变装 / 复古胶片
 - 标签：迪厅派对、舞池闪光、夜生活胶片、复古胶片、AI变装
 
+效果图：
+
+[![迪厅闪光风](assets/readme-previews/retro-disco-flash.webp)](templates/retro-disco-flash.html)
+
+
 提示词说明：建议保留“复古迪厅、disco 灯球、彩色聚光灯、强烈直闪、轻微拖影、胶片颗粒、夜生活氛围”这些核心描述。
 
 提示词：
@@ -2430,6 +2940,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/annual-filmography-collage-poster
 - 分类：社媒内容 / 拼贴海报
 - 标签：影视合集、拼贴海报、年度作品、社媒内容
+
+效果图：
+
+[![明星影视作品海报](assets/readme-previews/annual-filmography-collage-poster.webp)](templates/annual-filmography-collage-poster.html)
+
 
 提示词说明：默认提示词已经锁定了“第1张是风格参考、第2张是主人物、第3到第8张是六张作品图”的结构，建议不要再改成自由拼贴描述。
 
@@ -2475,6 +2990,11 @@
 - 分类：二次元/漫画 / 角色插画
 - 标签：角色插画、手绘涂鸦、卡通肖像、二次元/漫画
 
+效果图：
+
+[![手绘涂鸦卡通肖像](assets/readme-previews/hand-drawn-doodle-cartoon-portrait.webp)](templates/hand-drawn-doodle-cartoon-portrait.html)
+
+
 提示词说明：如果你想更像头像、手账贴纸或生活小涂鸦，可以继续补充背景元素、服装主色、表情气质和线条粗细方向。
 
 提示词：
@@ -2505,6 +3025,11 @@
 - 分类：社媒内容 / 社交媒体九宫格
 - 标签：社交媒体九宫格、朋友圈截图、动态截图、社媒内容
 
+效果图：
+
+[![朋友圈动态截图](assets/readme-previews/moments-feed-screenshot.webp)](templates/moments-feed-screenshot.html)
+
+
 提示词说明：如果你想更像真实朋友圈，可以继续补充昵称、发布文案、点赞人数、评论内容、时间、电量百分比和具体打卡地点。
 
 提示词：
@@ -2522,6 +3047,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/minimal-2d-flat-illustration
 - 分类：二次元/漫画 / 角色插画
 - 标签：角色插画、2D扁平、粗黑轮廓、二次元/漫画
+
+效果图：
+
+[![极简2D扁平插画](assets/readme-previews/minimal-2d-flat-illustration.webp)](templates/minimal-2d-flat-illustration.html)
+
 
 提示词说明：如果你想更像图标、头像或绘本角色，可以继续补充背景色、服装主色、主体姿态和画面留白方向。
 
@@ -2549,6 +3079,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/crystal-dew-skin-effect
 - 分类：AI变装 / 写真
 - 标签：写真、水晶露珠肌、美妆大片、AI变装
+
+效果图：
+
+[![水晶露珠肌效果](assets/readme-previews/crystal-dew-skin-effect.webp)](templates/crystal-dew-skin-effect.html)
+
 
 提示词说明：如果你想控制妆效，可以继续补充唇色深浅、眼妆浓度、发型状态、手部姿势或背景粉白色调。
 
@@ -2580,6 +3115,11 @@
 - 分类：二次元/漫画 / 角色插画
 - 标签：角色插画、复古怪诞、旧书插画、二次元/漫画
 
+效果图：
+
+[![复古怪诞插画](assets/readme-previews/retro-grotesque-illustration.webp)](templates/retro-grotesque-illustration.html)
+
+
 提示词说明：如果你想更荒诞，可以继续补充更奇怪的表情、更笨拙的动作、更旧的纸张、更低饱和水彩或更混乱的手写短句。
 
 提示词：
@@ -2603,6 +3143,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/magazine-cutout-collage-style
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志/海报、剪贴拼贴、生活记录、AI变装
+
+效果图：
+
+[![杂志剪贴风格](assets/readme-previews/magazine-cutout-collage-style.webp)](templates/magazine-cutout-collage-style.html)
+
 
 提示词说明：如果你想更像生活记录或杂志内页，可以继续补充手写短句、拼贴道具、留白方向、纸张颜色或画面情绪。
 
@@ -2643,6 +3188,11 @@
 - 分类：AI变装 / 生活记录
 - 标签：生活记录、Q版贴纸、社媒日记、AI变装
 
+效果图：
+
+[![Q版克隆贴纸照片](assets/readme-previews/chibi-clone-sticker-photo.webp)](templates/chibi-clone-sticker-photo.html)
+
+
 提示词说明：如果你想让画面更偏可爱、活力或日常杂志感，可以继续补充人物状态、穿搭关键词、拍摄氛围或希望出现的英文短句气质。
 
 提示词：
@@ -2673,6 +3223,11 @@
 - 分类：AI变装 / 二次元变身
 - 标签：二次元变身、时尚插画、杂志编辑风、AI变装
 
+效果图：
+
+[![Vogue时尚插画](assets/readme-previews/vogue-fashion-illustration.webp)](templates/vogue-fashion-illustration.html)
+
+
 提示词说明：如果你想更像时尚编辑插画，可以继续补充服装剪裁、妆容气质、发型线条、色彩浓度或纸张纹理强度。
 
 提示词：
@@ -2690,6 +3245,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/silver-wing-dream-doll
 - 分类：AI变装 / 千禧Y2K
 - 标签：千禧Y2K、K-pop偶像、银色时装大片、AI变装
+
+效果图：
+
+[![银翼梦偶](assets/readme-previews/silver-wing-dream-doll.webp)](templates/silver-wing-dream-doll.html)
+
 
 提示词说明：如果你希望画面更偏时装大片，可以继续补充服装材质、手势细节、妆容浓度或银色金属元素的规模。
 
@@ -2726,6 +3286,11 @@
 - 分类：AI变装 / 写真
 - 标签：写真、蓝底证件照、白衬衫、AI变装
 
+效果图：
+
+[![清新蓝底证件照](assets/readme-previews/fresh-blue-id-photo.webp)](templates/fresh-blue-id-photo.html)
+
+
 提示词说明：如果你想更贴近某类证件照，可以继续补充底色深浅、微笑程度、发型整理、衣领状态或是否需要更正式的影楼光。
 
 提示词：
@@ -2744,6 +3309,11 @@
 - 分类：AI变装 / 二次元变身
 - 标签：二次元变身、儿童蜡笔、童趣插画、AI变装
 
+效果图：
+
+[![儿童蜡笔风格](assets/readme-previews/children-crayon-style.webp)](templates/children-crayon-style.html)
+
+
 提示词说明：如果你想让画面更童真，可以继续补充更柔和的蜡笔笔触、更像小朋友手绘、更多花朵糖果星星云朵或更明亮的儿童配色。
 
 提示词：
@@ -2761,6 +3331,11 @@
 - 一键生成：https://www.jiling.cc/image-templates/studio-grade-black-white-portrait
 - 分类：AI变装 / 写真
 - 标签：写真、黑白写真、影楼质感、AI变装
+
+效果图：
+
+[![影楼级黑白写真](assets/readme-previews/studio-grade-black-white-portrait.webp)](templates/studio-grade-black-white-portrait.html)
+
 
 提示词说明：如果你想控制成片，可以继续补充动作构图、穿搭细节、发型状态、光比强度或更具体的影楼写真氛围。
 
@@ -2801,6 +3376,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 社媒头像
 - 标签：社媒头像、个人资料卡、影响者美学、社媒内容
 
+效果图：
+
+[![个人资料卡](assets/readme-previews/personal-profile-card.webp)](templates/personal-profile-card.html)
+
+
 提示词说明：如果你想更偏可爱、温柔、轻奢或博主感，可以继续补充穿搭关键词、人物状态、场景布置或想要的整体情绪。
 
 提示词：
@@ -2818,6 +3398,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/white-background-id-photo
 - 分类：AI变装 / 写真
 - 标签：写真、白底证件照、深色西装、AI变装
+
+效果图：
+
+[![白底证件照](assets/readme-previews/white-background-id-photo.webp)](templates/white-background-id-photo.html)
+
 
 提示词说明：如果你想更贴近具体用途，可以继续补充证件照规格、头肩裁切范围、底色严格程度、服装款式或表情要求。
 
@@ -2837,6 +3422,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：二次元/漫画 / 品牌海报
 - 标签：极简插画、编辑插画、品牌海报、二次元/漫画
 
+效果图：
+
+[![极简风格插画](assets/readme-previews/minimalist-editorial-illustration.webp)](templates/minimalist-editorial-illustration.html)
+
+
 提示词说明：例如可替换为人物、花束、香水瓶、猫、椅子、咖啡杯、建筑局部等；如果你想更有设计感，也可以继续补充“点缀红色”“更偏黑白杂志感”这类方向。
 
 提示词：
@@ -2854,6 +3444,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/milk-tea-splash-style
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志/海报、奶茶飞溅、动作人像、AI变装
+
+效果图：
+
+[![奶茶飞溅风格](assets/readme-previews/milk-tea-splash-style.webp)](templates/milk-tea-splash-style.html)
+
 
 提示词说明：如果你希望更像商业广告或更像社媒爆款动作照，可以继续补充镜头动势、液体飞溅规模、表情状态和服装细节。
 
@@ -2895,6 +3490,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：二次元/漫画 / 角色插画
 - 标签：角色插画、蜡笔风格、童趣卡通、二次元/漫画
 
+效果图：
+
+[![卡通蜡笔风格](assets/readme-previews/cartoon-crayon-style.webp)](templates/cartoon-crayon-style.html)
+
+
 提示词说明：可继续补充希望更像儿童绘本、亲子涂鸦、蜡笔手绘、柔和粉彩、圆润线条或明亮快乐的表情方向。
 
 提示词：
@@ -2913,6 +3513,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：AI变装 / 杂志/海报
 - 标签：线条手绘、doodle插画、童趣涂鸦、杂志/海报、AI变装
 
+效果图：
+
+[![彩色线条手绘](assets/readme-previews/colorful-doodle-line-art.webp)](templates/colorful-doodle-line-art.html)
+
+
 提示词说明：如果你想让画面更贴近某种童趣状态，可以继续补充主体重点、色彩偏好或想保留的轮廓特征。
 
 提示词：
@@ -2930,6 +3535,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/perler-bead-pixel-pattern
 - 分类：社媒内容 / 趣味滤镜
 - 标签：拼豆图纸、像素手工、doodle像素、趣味滤镜、社媒内容
+
+效果图：
+
+[![拼豆像素图纸](assets/readme-previews/perler-bead-pixel-pattern.webp)](templates/perler-bead-pixel-pattern.html)
+
 
 提示词说明：如果你想改成 16×16 或 48×48，可以直接在默认提示词里替换网格尺寸；如果想更像真实拼豆，也可以补充主体要保留的关键轮廓。
 
@@ -2968,6 +3578,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：AI变装 / 杂志/海报
 - 标签：商务头像、档案照、职业形象、杂志/海报、AI变装
 
+效果图：
+
+[![商务档案头像](assets/readme-previews/business-profile-headshot.webp)](templates/business-profile-headshot.html)
+
+
 提示词说明：如果你希望更贴近某个职业方向，可以继续补充行业气质、穿搭偏好、发型要求或想保留的姓名与职位信息。
 
 提示词：
@@ -3003,6 +3618,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：电商 / 详情页设计
 - 标签：产品介绍图、电商详情页、商品介绍、详情页设计、电商
 
+效果图：
+
+[![电商产品介绍图](assets/readme-previews/ecommerce-product-intro-image.webp)](templates/ecommerce-product-intro-image.html)
+
+
 提示词说明：先替换【产品名称】，再补充最重要的卖点、适用人群、功能亮点或场景关键词，产品介绍会更聚焦。
 
 提示词：
@@ -3020,6 +3640,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/hyperreal-concept-portrait
 - 分类：AI变装 / 杂志/海报
 - 标签：杂志/海报、超现实概念、身份认知、AI变装
+
+效果图：
+
+[![超写实概念肖像](assets/readme-previews/hyperreal-concept-portrait.webp)](templates/hyperreal-concept-portrait.html)
+
 
 提示词说明：如果你希望画面更偏时尚广告或更偏心理概念海报，可以继续补充人物状态、排版力度或空间氛围细节。
 
@@ -3060,6 +3685,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 信息图
 - 标签：信息图、妆容分析、形象建议、社媒内容
 
+效果图：
+
+[![个人妆容分析](assets/readme-previews/personal-makeup-analysis.webp)](templates/personal-makeup-analysis.html)
+
+
 提示词说明：如果你更想突出某个方向，可以继续补充“更看重日常妆容”“更想看气色提升”“更关注眼妆和唇色”这类需求。
 
 提示词：
@@ -3084,6 +3714,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：广告创意 / 促销海报
 - 标签：甜点海报、促销海报、烘焙品牌、广告创意
 
+效果图：
+
+[![甜点促销海报](assets/readme-previews/dessert-sale-poster.webp)](templates/dessert-sale-poster.html)
+
+
 提示词说明：如果你想更贴近自己的活动页，可以继续补充品牌色、主推甜点名、折扣文案或更明确的节日主题。
 
 提示词：
@@ -3101,6 +3736,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/handled-product-packaging-design
 - 分类：广告创意 / 包装提案
 - 标签：手提包装、烘焙包装、品牌包装、包装提案、广告创意
+
+效果图：
+
+[![手提产品包装设计](assets/readme-previews/handled-product-packaging-design.webp)](templates/handled-product-packaging-design.html)
+
 
 提示词说明：如果你想更贴近自己的品牌，可以继续补充品牌调性、产品品类、图案元素或包装材质方向。
 
@@ -3120,6 +3760,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：广告创意 / 包装提案
 - 标签：包装设计、系列包装、健康饮品、包装提案、广告创意
 
+效果图：
+
+[![产品包装设计](assets/readme-previews/product-packaging-design.webp)](templates/product-packaging-design.html)
+
+
 提示词说明：如果你想更贴近自己的品牌，可以继续补充品牌调性、产品卖点、包装材质或系列化命名方向。
 
 提示词：
@@ -3137,6 +3782,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/handmade-paper-sculpture-illustration
 - 分类：AI变装 / 二次元变身
 - 标签：二次元变身、纸雕插画、分层纸艺、AI变装
+
+效果图：
+
+[![手工纸雕插画](assets/readme-previews/handmade-paper-sculpture-illustration.webp)](templates/handmade-paper-sculpture-illustration.html)
+
 
 提示词说明：如果你想让纸雕效果更明显，可以继续补充纸张颜色、层数、背景场景、光影方向或角色可爱程度。
 
@@ -3156,6 +3806,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：AI变装 / 写真
 - 标签：写真、红底证件照、深色西装、AI变装
 
+效果图：
+
+[![红底证件照](assets/readme-previews/red-background-id-photo.webp)](templates/red-background-id-photo.html)
+
+
 提示词说明：如果你想更贴近具体用途，可以继续补充证件照规格、头肩裁切范围、红底严格程度、服装款式或表情要求。
 
 提示词：
@@ -3173,6 +3828,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-sale-poster-design
 - 分类：电商 / 风格海报
 - 标签：促销海报、电商活动、618大促、风格海报、电商
+
+效果图：
+
+[![电商促销海报设计](assets/readme-previews/ecommerce-sale-poster-design.webp)](templates/ecommerce-sale-poster-design.html)
+
 
 提示词说明：如果你想更贴近自己的活动页，可以继续补充品牌色、主推产品、优惠力度或更明确的节日主题。
 
@@ -3192,6 +3852,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：电商 / 风格海报
 - 标签：护肤品海报、促销海报、美妆电商、风格海报、电商
 
+效果图：
+
+[![护肤品促销海报](assets/readme-previews/skincare-promo-poster.webp)](templates/skincare-promo-poster.html)
+
+
 提示词说明：如果你想更贴近自己的品牌活动，可以继续补充品牌色、活动主题、主推产品名或更明确的促销语气。
 
 提示词：
@@ -3209,6 +3874,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/pixar-3d-child-portrait
 - 分类：IP形象/手办 / 3D卡通形象
 - 标签：3D卡通形象、儿童肖像、皮克斯风、IP形象/手办
+
+效果图：
+
+[![皮克斯3D儿童肖像](assets/readme-previews/pixar-3d-child-portrait.webp)](templates/pixar-3d-child-portrait.html)
+
 
 提示词说明：如果你更想贴近照片里的状态，可以继续补充发型细节、服装颜色、表情轻重或想保留的小配饰。
 
@@ -3261,6 +3931,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 百科信息图
 - 标签：科普百科图、百科信息图、知识卡片、社媒内容
 
+效果图：
+
+[![科普百科图](assets/readme-previews/encyclopedia-infographic.webp)](templates/encyclopedia-infographic.html)
+
+
 提示词说明：先替换【主题】，再补充你更在意的信息方向，比如“更适合收藏、信息更清楚、突出风险提醒、加入 Top 5 模块”这类要求。
 
 提示词：
@@ -3296,6 +3971,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/lost-in-country-poster
 - 分类：社媒内容 / 拼贴海报
 - 标签：旅行海报、平面拼贴、异国旅行、拼贴海报、社媒内容
+
+效果图：
+
+[![异国旅行海报](assets/readme-previews/lost-in-country-poster.webp)](templates/lost-in-country-poster.html)
+
 
 提示词说明：先填写国家名称，再补充你更想强调的地标、城市氛围、服装方向或旅行道具，海报会更贴近目的地气质。
 
@@ -3333,6 +4013,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 信息图
 - 标签：信息图、色彩分析、形象建议、社媒内容
 
+效果图：
+
+[![个人色彩分析](assets/readme-previews/personal-color-analysis.webp)](templates/personal-color-analysis.html)
+
+
 提示词说明：如果你更想看某类颜色，可以继续补充“更想比较冷暖色”“更关注显白效果”“更想看日常穿搭配色”这类方向。
 
 提示词：
@@ -3361,6 +4046,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 信息图
 - 标签：信息图、穿搭分析、造型建议、社媒内容
 
+效果图：
+
+[![个人穿搭分析](assets/readme-previews/personal-outfit-analysis.webp)](templates/personal-outfit-analysis.html)
+
+
 提示词说明：如果你更想看某类风格，可以继续补充“更想看韩系和小香对比”“更关注显气色效果”“更想比较学院和运动风”这类方向。
 
 提示词：
@@ -3386,6 +4076,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/personal-hairstyle-analysis
 - 分类：社媒内容 / 信息图
 - 标签：信息图、发型分析、造型建议、社媒内容
+
+效果图：
+
+[![个人发型分析](assets/readme-previews/personal-hairstyle-analysis.webp)](templates/personal-hairstyle-analysis.html)
+
 
 提示词说明：如果你更想看某类发型，可以继续补充“更想看刘海对比”“更想看短发和长发差异”“更关注显脸小效果”这类方向。
 
@@ -3415,6 +4110,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：广告创意 / 品牌海报
 - 标签：品牌海报、不可能场景、球鞋广告、广告创意
 
+效果图：
+
+[![Nike超现实海报](assets/readme-previews/nike-surreal-poster.webp)](templates/nike-surreal-poster.html)
+
+
 提示词说明：如果你希望更贴近目标海报，可以继续补充光线强弱、地板反射程度、人物姿态或留白范围。
 
 提示词：
@@ -3432,6 +4132,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/character-design-sheet
 - 分类：IP形象/手办 / 3D卡通形象
 - 标签：3D卡通形象、角色设定图、社媒传播、IP形象/手办
+
+效果图：
+
+[![角色设定图](assets/readme-previews/character-design-sheet.webp)](templates/character-design-sheet.html)
+
 
 提示词说明：如果你已经想好角色名字、性格和偏好的小物件，可以直接补进去，设定图会更完整。
 
@@ -3461,6 +4166,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/technical-infographic
 - 分类：社媒内容 / 信息图
 - 标签：技术信息图、产品拆解图、设备结构图、信息图、社媒内容
+
+效果图：
+
+[![技术信息图](assets/readme-previews/technical-infographic.webp)](templates/technical-infographic.html)
+
 
 提示词说明：先填写物体或设备名称，再补充你更想突出的结构、功能模块或说明重点，信息图会更聚焦。
 
@@ -3500,6 +4210,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/couple-stroll-collage
 - 分类：人物写真 / 情绪大片
 - 标签：情绪大片、情侣写真、生活记录、人物写真
+
+效果图：
+
+[![情侣漫步拼贴画](assets/readme-previews/couple-stroll-collage.webp)](templates/couple-stroll-collage.html)
+
 
 提示词说明：如果你希望更像真实恋爱日常，可以继续补充更具体的互动状态、表情感觉或街区氛围。
 
@@ -3542,6 +4257,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：人物写真 / 杂志封面
 - 标签：杂志封面、高级时装、摄影棚人像、人物写真
 
+效果图：
+
+[![高级时装人像](assets/readme-previews/high-fashion-editorial-portrait.webp)](templates/high-fashion-editorial-portrait.html)
+
+
 提示词说明：如果你希望更偏杂志封面或更偏极简时装大片，可以继续补充情绪、妆容、耳饰或服装细节方向。
 
 提示词：
@@ -3568,6 +4288,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：广告创意 / 促销传单
 - 标签：超市传单、促销广告、社区门店、促销传单、广告创意
 
+效果图：
+
+[![超市特价传单](assets/readme-previews/community-supermarket-flyer.webp)](templates/community-supermarket-flyer.html)
+
+
 提示词说明：使用建议：补充门店名称、活动时间、主推商品、价格、满减信息和联系方式，传单会更像真实门店促销物料。
 
 提示词：
@@ -3585,6 +4310,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/eastern-fantasy-female
 - 分类：二次元/漫画 / 角色插画
 - 标签：东方幻想、女性肖像、CG插画、角色插画、二次元/漫画
+
+效果图：
+
+[![东方幻想风格女性](assets/readme-previews/eastern-fantasy-female.webp)](templates/eastern-fantasy-female.html)
+
 
 提示词说明：可以继续补充发色、花朵种类、饰品、眼神情绪、礼服细节或背景微光层次，让角色设定更贴近你的方向。
 
@@ -3613,6 +4343,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/deconstruction-infographic
 - 分类：社媒内容 / 信息图
 - 标签：拆解信息图、博物馆图鉴、文博展板、信息图、社媒内容
+
+效果图：
+
+[![拆解信息图](assets/readme-previews/deconstruction-infographic.webp)](templates/deconstruction-infographic.html)
+
 
 提示词说明：使用建议：先替换【主题】，主题越具体越好，例如“明制马面裙结构”“唐代圆领袍”“宋代汝窑瓷器”“青铜鼎纹样”。
 
@@ -3647,6 +4382,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：电商 / 详情页设计
 - 标签：电商详情图、详情页、商品卖点、详情页设计、电商
 
+效果图：
+
+[![电商详情图](assets/readme-previews/ecommerce-detail-image.webp)](templates/ecommerce-detail-image.html)
+
+
 提示词说明：先替换【产品名称】，再补充商品卖点、使用感受、适用人群或风格方向，详情页表达会更聚焦。
 
 提示词：
@@ -3665,6 +4405,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 分类：社媒内容 / 攻略长图
 - 标签：旅游攻略、城市攻略、社媒长图、攻略长图、社媒内容
 
+效果图：
+
+[![旅游攻略](assets/readme-previews/travel-guide.webp)](templates/travel-guide.html)
+
+
 提示词说明：使用建议：先替换【城市】，再补充“亲子游、情侣游、穷游、周末游、秋季、避开人流、偏美食、偏拍照、轻松路线”等具体需求。
 
 提示词：
@@ -3682,6 +4427,11 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 - 一键生成：https://www.jiling.cc/image-templates/calligraphy-copybook
 - 分类：广告创意 / 字帖模板
 - 标签：书法字帖、临摹练习、字体设计、字帖模板、广告创意
+
+效果图：
+
+[![书法临摹贴](assets/readme-previews/calligraphy-copybook.webp)](templates/calligraphy-copybook.html)
+
 
 提示词说明：使用建议：优先修改字体风格和练习内容，比如把【字体】改成“行书、隶书、篆书、瘦金体、颜体、欧体”，也可以补充练习文字、标题和网格类型。
 

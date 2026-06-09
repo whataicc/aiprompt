@@ -7,7 +7,30 @@
 ## 提示词目录
 
 <details>
-<summary>1. 粗糙笨拙丑陋风 - GPT Image 2 / 2:3</summary>
+<summary>1. 高考海报设计 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/gaokao-poster-design.html
+- 一键生成：https://www.jiling.cc/image-templates/gaokao-poster-design
+- 分类：广告创意 / 品牌海报
+- 标签：品牌海报、高考海报、金榜题名、广告创意
+
+效果图：
+
+[![高考海报设计](assets/readme-previews/gaokao-poster-design.webp)](templates/gaokao-poster-design.html)
+
+
+提示词说明：建议补充学校名称、班级、城市、主色调、文案语气和希望出现的考试、榜单、红旗、桂冠等元素。
+
+提示词：
+
+````text
+做一张2026年高考「旗开得胜·金榜题名」主题的海报
+````
+
+</details>
+
+<details>
+<summary>2. 粗糙笨拙丑陋风 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/rough-ugly-ms-paint-style.html
 - 一键生成：https://www.jiling.cc/image-templates/rough-ugly-ms-paint-style
@@ -30,7 +53,7 @@
 </details>
 
 <details>
-<summary>2. 破屏穿越风格 - GPT Image 2 / 2:3</summary>
+<summary>3. 破屏穿越风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/breaking-screen-social-style.html
 - 一键生成：https://www.jiling.cc/image-templates/breaking-screen-social-style
@@ -112,7 +135,7 @@
 </details>
 
 <details>
-<summary>3. 丑萌涂鸦画 - GPT Image 2 / 2:3</summary>
+<summary>4. 丑萌涂鸦画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ugly-cute-doodle-drawing.html
 - 一键生成：https://www.jiling.cc/image-templates/ugly-cute-doodle-drawing
@@ -141,7 +164,7 @@
 </details>
 
 <details>
-<summary>4. 光环叙事 - GPT Image 2 / 2:3</summary>
+<summary>5. 光环叙事 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/halo-narrative.html
 - 一键生成：https://www.jiling.cc/image-templates/halo-narrative
@@ -166,7 +189,7 @@
 </details>
 
 <details>
-<summary>5. 老照片高保真修复 - GPT Image 2 / 3:2</summary>
+<summary>6. 老照片高保真修复 - GPT Image 2 / 3:2</summary>
 
 - 教程页：https://docs.jiling.cc/templates/old-photo-high-fidelity-restoration.html
 - 一键生成：https://www.jiling.cc/image-templates/old-photo-high-fidelity-restoration
@@ -199,7 +222,7 @@
 </details>
 
 <details>
-<summary>6. 水墨手绘插画 - GPT Image 2 / 2:3</summary>
+<summary>7. 水墨手绘插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ink-handdrawn-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/ink-handdrawn-illustration
@@ -224,7 +247,7 @@
 </details>
 
 <details>
-<summary>7. 纸艺风格 - GPT Image 2 / 2:3</summary>
+<summary>8. 纸艺风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/papercraft-style-filter.html
 - 一键生成：https://www.jiling.cc/image-templates/papercraft-style-filter
@@ -247,7 +270,7 @@
 </details>
 
 <details>
-<summary>8. 镜面反射冷艳肖像 - GPT Image 2 / 2:3</summary>
+<summary>9. 镜面反射冷艳肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/mirror-reflection-cold-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/mirror-reflection-cold-portrait
@@ -270,7 +293,7 @@
 </details>
 
 <details>
-<summary>9. 个人形象分析 - GPT Image 2 / 2:3</summary>
+<summary>10. 个人形象分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-image-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-image-analysis
@@ -307,7 +330,7 @@
 </details>
 
 <details>
-<summary>10. 皮克斯3D肖像 - GPT Image 2 / 2:3</summary>
+<summary>11. 皮克斯3D肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pixar-3d-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/pixar-3d-portrait
@@ -330,7 +353,7 @@
 </details>
 
 <details>
-<summary>11. 抖音直播 - GPT Image 2 / 9:16</summary>
+<summary>12. 抖音直播 - GPT Image 2 / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/douyin-live.html
 - 一键生成：https://www.jiling.cc/image-templates/douyin-live
@@ -353,7 +376,7 @@
 </details>
 
 <details>
-<summary>12. 商品广告 - GPT Image 2 / 9:16</summary>
+<summary>13. 商品广告 - GPT Image 2 / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/product-advertisement.html
 - 一键生成：https://www.jiling.cc/image-templates/product-advertisement
@@ -378,7 +401,7 @@
 </details>
 
 <details>
-<summary>13. 手绘包装提案 - GPT Image 2 / 2:3</summary>
+<summary>14. 手绘包装提案 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hand-drawn-packaging-proposal.html
 - 一键生成：https://www.jiling.cc/image-templates/hand-drawn-packaging-proposal
@@ -435,7 +458,7 @@
 </details>
 
 <details>
-<summary>14. 低质量鼠标涂鸦 - GPT Image 2 / 2:3</summary>
+<summary>15. 低质量鼠标涂鸦 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/low-quality-mouse-doodle.html
 - 一键生成：https://www.jiling.cc/image-templates/low-quality-mouse-doodle
@@ -458,7 +481,7 @@
 </details>
 
 <details>
-<summary>15. 本地超市特价海报 - GPT Image 2 / 2:3</summary>
+<summary>16. 本地超市特价海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/local-supermarket-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/local-supermarket-poster
@@ -481,7 +504,7 @@
 </details>
 
 <details>
-<summary>16. 梦幻逆光天空系 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>17. 梦幻逆光天空系 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/dream-backlit-sky-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/dream-backlit-sky-poster
@@ -506,7 +529,7 @@
 </details>
 
 <details>
-<summary>17. 温暖手工黏土风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>18. 温暖手工黏土风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/warm-clay-stopmotion-filter.html
 - 一键生成：https://www.jiling.cc/image-templates/warm-clay-stopmotion-filter
@@ -531,7 +554,7 @@
 </details>
 
 <details>
-<summary>18. 白底主图 - Nano Banana Pro / 1:1</summary>
+<summary>19. 白底主图 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/white-background-main-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/white-background-main-shot
@@ -555,7 +578,7 @@
 </details>
 
 <details>
-<summary>19. 生活方式场景 - Nano Banana Pro / 1:1</summary>
+<summary>20. 生活方式场景 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/lifestyle-seeding-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/lifestyle-seeding-product-shot
@@ -579,7 +602,7 @@
 </details>
 
 <details>
-<summary>20. 情侣双人盲盒收藏 - Nano Banana Pro / 3:4</summary>
+<summary>21. 情侣双人盲盒收藏 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/couple-blindbox-collection-set.html
 - 一键生成：https://www.jiling.cc/image-templates/couple-blindbox-collection-set
@@ -602,7 +625,7 @@
 </details>
 
 <details>
-<summary>21. 职业专属配件手办 - Nano Banana Pro / 4:5</summary>
+<summary>22. 职业专属配件手办 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/career-accessory-blindbox-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/career-accessory-blindbox-figure
@@ -625,7 +648,7 @@
 </details>
 
 <details>
-<summary>22. 高级灰影棚 - Nano Banana Pro / 1:1</summary>
+<summary>23. 高级灰影棚 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/premium-gray-studio-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/premium-gray-studio-shot
@@ -649,7 +672,7 @@
 </details>
 
 <details>
-<summary>23. 透明窗盲盒 - Nano Banana Pro / 4:5</summary>
+<summary>24. 透明窗盲盒 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/classic-window-box-blindbox-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/classic-window-box-blindbox-figure
@@ -672,7 +695,7 @@
 </details>
 
 <details>
-<summary>24. 45度悬浮动态图 - Nano Banana Pro / 1:1</summary>
+<summary>25. 45度悬浮动态图 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/floating-45-degree-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/floating-45-degree-product-shot
@@ -696,7 +719,7 @@
 </details>
 
 <details>
-<summary>25. 1/7超写实手办 - Nano Banana Pro / 3:4</summary>
+<summary>26. 1/7超写实手办 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/one-seventh-collectible-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/one-seventh-collectible-figure
@@ -719,7 +742,7 @@
 </details>
 
 <details>
-<summary>26. 俯拍平铺 - Nano Banana Pro / 1:1</summary>
+<summary>27. 俯拍平铺 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/top-down-flatlay-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/top-down-flatlay-product-shot
@@ -743,7 +766,7 @@
 </details>
 
 <details>
-<summary>27. 半透明毛玻璃视觉 - Nano Banana Pro / 1:1</summary>
+<summary>28. 半透明毛玻璃视觉 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/frosted-glass-logo-visual.html
 - 一键生成：https://www.jiling.cc/image-templates/frosted-glass-logo-visual
@@ -766,7 +789,7 @@
 </details>
 
 <details>
-<summary>28. 官方周边限定手办 - Nano Banana Pro / 2:3</summary>
+<summary>29. 官方周边限定手办 - Nano Banana Pro / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/official-limited-edition-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/official-limited-edition-figure
@@ -789,7 +812,7 @@
 </details>
 
 <details>
-<summary>29. 3D/C4D多巴胺 - Nano Banana Pro / 1:1</summary>
+<summary>30. 3D/C4D多巴胺 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/c4d-dopamine-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/c4d-dopamine-product-shot
@@ -815,7 +838,7 @@
 </details>
 
 <details>
-<summary>30. Y2K赛博液态铬 - Nano Banana Pro / 1:1</summary>
+<summary>31. Y2K赛博液态铬 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/y2k-liquid-chrome-type.html
 - 一键生成：https://www.jiling.cc/image-templates/y2k-liquid-chrome-type
@@ -838,7 +861,7 @@
 </details>
 
 <details>
-<summary>31. 桌面建模工作室 - Nano Banana Pro / 16:9</summary>
+<summary>32. 桌面建模工作室 - Nano Banana Pro / 16:9</summary>
 
 - 教程页：https://docs.jiling.cc/templates/desktop-modeling-studio-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/desktop-modeling-studio-figure
@@ -861,7 +884,7 @@
 </details>
 
 <details>
-<summary>32. 国潮/新中式 - Nano Banana Pro / 1:1</summary>
+<summary>33. 国潮/新中式 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/new-chinese-trend-product-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/new-chinese-trend-product-poster
@@ -885,7 +908,7 @@
 </details>
 
 <details>
-<summary>33. 充气软糖美学 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>34. 充气软糖美学 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/inflatable-gummy-type.html
 - 一键生成：https://www.jiling.cc/image-templates/inflatable-gummy-type
@@ -908,7 +931,7 @@
 </details>
 
 <details>
-<summary>34. 潮玩新品官宣 - Nano Banana Pro / 2:3</summary>
+<summary>35. 潮玩新品官宣 - Nano Banana Pro / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/designer-toy-launch-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/designer-toy-launch-poster
@@ -931,7 +954,7 @@
 </details>
 
 <details>
-<summary>35. 三格漫画故事板 - Nano Banana Pro / 3:2</summary>
+<summary>36. 三格漫画故事板 - Nano Banana Pro / 3:2</summary>
 
 - 教程页：https://docs.jiling.cc/templates/three-panel-comic-story.html
 - 一键生成：https://www.jiling.cc/image-templates/three-panel-comic-story
@@ -954,7 +977,7 @@
 </details>
 
 <details>
-<summary>36. 港片霓虹风 - Nano Banana Pro / 21:9</summary>
+<summary>37. 港片霓虹风 - Nano Banana Pro / 21:9</summary>
 
 - 教程页：https://docs.jiling.cc/templates/neon-hk-cinema.html
 - 一键生成：https://www.jiling.cc/image-templates/neon-hk-cinema
@@ -977,7 +1000,7 @@
 </details>
 
 <details>
-<summary>37. 高端盲盒包装 - Nano Banana Pro / 4:5</summary>
+<summary>38. 高端盲盒包装 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/premium-blindbox-retail-packaging.html
 - 一键生成：https://www.jiling.cc/image-templates/premium-blindbox-retail-packaging
@@ -1000,7 +1023,7 @@
 </details>
 
 <details>
-<summary>38. 治愈系动画水彩 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>39. 治愈系动画水彩 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/healing-watercolor-brand-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/healing-watercolor-brand-poster
@@ -1025,7 +1048,7 @@
 </details>
 
 <details>
-<summary>39. 90年代杂志风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>40. 90年代杂志风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-magazine-cover.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-magazine-cover
@@ -1048,7 +1071,7 @@
 </details>
 
 <details>
-<summary>40. Q版萌系盲盒 - Nano Banana Pro / 4:5</summary>
+<summary>41. Q版萌系盲盒 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cute-chibi-blindbox-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/cute-chibi-blindbox-figure
@@ -1071,7 +1094,7 @@
 </details>
 
 <details>
-<summary>41. 赛博霓虹机能 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>42. 赛博霓虹机能 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cyber-neon-functional-visual.html
 - 一键生成：https://www.jiling.cc/image-templates/cyber-neon-functional-visual
@@ -1096,7 +1119,7 @@
 </details>
 
 <details>
-<summary>42. 胶片女神风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>43. 胶片女神风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-film-goddess.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-film-goddess
@@ -1119,7 +1142,7 @@
 </details>
 
 <details>
-<summary>43. 吸塑盒装手办 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>44. 吸塑盒装手办 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/action-figure-blister-pack.html
 - 一键生成：https://www.jiling.cc/image-templates/action-figure-blister-pack
@@ -1142,7 +1165,7 @@
 </details>
 
 <details>
-<summary>44. Y2K闪光风 - Gemini 3.1 Flash Image Preview / 9:16</summary>
+<summary>45. Y2K闪光风 - Gemini 3.1 Flash Image Preview / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/y2k-flash-selfie.html
 - 一键生成：https://www.jiling.cc/image-templates/y2k-flash-selfie
@@ -1165,7 +1188,7 @@
 </details>
 
 <details>
-<summary>45. 潮玩盲盒风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>46. 潮玩盲盒风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/trendy-designer-blindbox-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/trendy-designer-blindbox-figure
@@ -1188,7 +1211,7 @@
 </details>
 
 <details>
-<summary>46. 未来潮玩盲盒风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>47. 未来潮玩盲盒风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/future-designer-toy-avatar.html
 - 一键生成：https://www.jiling.cc/image-templates/future-designer-toy-avatar
@@ -1213,7 +1236,7 @@
 </details>
 
 <details>
-<summary>47. 收藏柜手办 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>48. 收藏柜手办 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/display-cabinet-collectible-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/display-cabinet-collectible-figure
@@ -1236,7 +1259,7 @@
 </details>
 
 <details>
-<summary>48. 90年代叙事胶片 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>49. 90年代叙事胶片 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/nineties-film-story-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/nineties-film-story-poster
@@ -1261,7 +1284,7 @@
 </details>
 
 <details>
-<summary>49. 分层解构展示 - Nano Banana Pro / 1:1</summary>
+<summary>50. 分层解构展示 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/exploded-selling-point-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/exploded-selling-point-product-shot
@@ -1285,7 +1308,7 @@
 </details>
 
 <details>
-<summary>50. CCD校园风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>51. CCD校园风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ccd-campus-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/ccd-campus-photo
@@ -1308,7 +1331,7 @@
 </details>
 
 <details>
-<summary>51. 港风夜店胶片风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>52. 港风夜店胶片风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hong-kong-nightclub-film.html
 - 一键生成：https://www.jiling.cc/image-templates/hong-kong-nightclub-film
@@ -1331,7 +1354,7 @@
 </details>
 
 <details>
-<summary>52. 护肤品爆款 - Nano Banana Pro / 1:1</summary>
+<summary>53. 护肤品爆款 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/skincare-bestseller.html
 - 一键生成：https://www.jiling.cc/image-templates/skincare-bestseller
@@ -1354,7 +1377,7 @@
 </details>
 
 <details>
-<summary>53. 老电影海报风 - Gemini 3.1 Flash Image Preview / 2:3</summary>
+<summary>54. 老电影海报风 - Gemini 3.1 Flash Image Preview / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/old-movie-poster-star.html
 - 一键生成：https://www.jiling.cc/image-templates/old-movie-poster-star
@@ -1377,7 +1400,7 @@
 </details>
 
 <details>
-<summary>54. 香水爆款 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>55. 香水爆款 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/perfume-bestseller.html
 - 一键生成：https://www.jiling.cc/image-templates/perfume-bestseller
@@ -1400,7 +1423,7 @@
 </details>
 
 <details>
-<summary>55. 宝莱坞沙丽复古风 - Gemini 3.1 Flash Image Preview / 2:3</summary>
+<summary>56. 宝莱坞沙丽复古风 - Gemini 3.1 Flash Image Preview / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/bollywood-sari-retro.html
 - 一键生成：https://www.jiling.cc/image-templates/bollywood-sari-retro
@@ -1423,7 +1446,7 @@
 </details>
 
 <details>
-<summary>56. 数码科技爆款 - Nano Banana Pro / 1:1</summary>
+<summary>57. 数码科技爆款 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/digital-tech-bestseller.html
 - 一键生成：https://www.jiling.cc/image-templates/digital-tech-bestseller
@@ -1446,7 +1469,7 @@
 </details>
 
 <details>
-<summary>57. 品牌联名主视觉 - Nano Banana Pro / 16:9</summary>
+<summary>58. 品牌联名主视觉 - Nano Banana Pro / 16:9</summary>
 
 - 教程页：https://docs.jiling.cc/templates/brand-collab.html
 - 一键生成：https://www.jiling.cc/image-templates/brand-collab
@@ -1469,7 +1492,7 @@
 </details>
 
 <details>
-<summary>58. 明星狗仔风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>59. 明星狗仔风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/paparazzi-film-snap.html
 - 一键生成：https://www.jiling.cc/image-templates/paparazzi-film-snap
@@ -1492,7 +1515,7 @@
 </details>
 
 <details>
-<summary>59. 高级静奢版 - Nano Banana Pro / 1:1</summary>
+<summary>60. 高级静奢版 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/quiet-luxury-product.html
 - 一键生成：https://www.jiling.cc/image-templates/quiet-luxury-product
@@ -1515,7 +1538,7 @@
 </details>
 
 <details>
-<summary>60. 海报生成 - GPT Image 2 / 9:16</summary>
+<summary>61. 海报生成 - GPT Image 2 / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/japanese-tea-drink-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/japanese-tea-drink-poster
@@ -1540,7 +1563,7 @@
 </details>
 
 <details>
-<summary>61. 高端产品生成 - Nano Banana Pro / 1:1</summary>
+<summary>62. 高端产品生成 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/luxury-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/luxury-product-shot
@@ -1563,7 +1586,7 @@
 </details>
 
 <details>
-<summary>62. 让事物焕发活力 - Nano Banana Pro / 1:1</summary>
+<summary>63. 让事物焕发活力 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/sketch-to-polished-visual.html
 - 一键生成：https://www.jiling.cc/image-templates/sketch-to-polished-visual
@@ -1586,7 +1609,7 @@
 </details>
 
 <details>
-<summary>63. 渐变品牌Logo - Nano Banana Pro / 1:1</summary>
+<summary>64. 渐变品牌Logo - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/neoglo-logo.html
 - 一键生成：https://www.jiling.cc/image-templates/neoglo-logo
@@ -1620,7 +1643,7 @@
 </details>
 
 <details>
-<summary>64. 24K矢量金线 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>65. 24K矢量金线 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/24k-gold-vector-lines.html
 - 一键生成：https://www.jiling.cc/image-templates/24k-gold-vector-lines
@@ -1643,7 +1666,7 @@
 </details>
 
 <details>
-<summary>65. 复古动画海报 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>66. 复古动画海报 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-cel-vhs-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-cel-vhs-poster
@@ -1668,7 +1691,7 @@
 </details>
 
 <details>
-<summary>66. 新中式品牌风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>67. 新中式品牌风 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/new-chinese-ink-brand-visual.html
 - 一键生成：https://www.jiling.cc/image-templates/new-chinese-ink-brand-visual
@@ -1693,7 +1716,7 @@
 </details>
 
 <details>
-<summary>67. 禅意极简 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>68. 禅意极简 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/zen-minimal-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/zen-minimal-product-shot
@@ -1718,7 +1741,7 @@
 </details>
 
 <details>
-<summary>68. 赛博科技 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>69. 赛博科技 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cyber-tech-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/cyber-tech-product-shot
@@ -1743,7 +1766,7 @@
 </details>
 
 <details>
-<summary>69. 自然森系 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>70. 自然森系 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/natural-forest-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/natural-forest-product-shot
@@ -1768,7 +1791,7 @@
 </details>
 
 <details>
-<summary>70. 高奢丝绒 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>71. 高奢丝绒 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/luxury-velvet-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/luxury-velvet-product-shot
@@ -1793,7 +1816,7 @@
 </details>
 
 <details>
-<summary>71. 波普酸性 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>72. 波普酸性 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pop-acid-product-shot.html
 - 一键生成：https://www.jiling.cc/image-templates/pop-acid-product-shot
@@ -1818,7 +1841,7 @@
 </details>
 
 <details>
-<summary>72. 极致3D极简美学 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>73. 极致3D极简美学 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ultra-3d-minimal-aesthetic.html
 - 一键生成：https://www.jiling.cc/image-templates/ultra-3d-minimal-aesthetic
@@ -1843,7 +1866,7 @@
 </details>
 
 <details>
-<summary>73. 超现实自然共生 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>74. 超现实自然共生 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/surreal-nature-symbiosis.html
 - 一键生成：https://www.jiling.cc/image-templates/surreal-nature-symbiosis
@@ -1868,7 +1891,7 @@
 </details>
 
 <details>
-<summary>74. 复古未来主义插画 - Gemini 3.1 Flash Image Preview / 1:1</summary>
+<summary>75. 复古未来主义插画 - Gemini 3.1 Flash Image Preview / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-futurism-pop-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-futurism-pop-poster
@@ -1893,7 +1916,7 @@
 </details>
 
 <details>
-<summary>75. 3D卡通贴纸包 - Nano Banana Pro / 1:1</summary>
+<summary>76. 3D卡通贴纸包 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/3d-sticker-pack.html
 - 一键生成：https://www.jiling.cc/image-templates/3d-sticker-pack
@@ -1916,7 +1939,7 @@
 </details>
 
 <details>
-<summary>76. AI换模特主图 - Nano Banana Pro / 3:4</summary>
+<summary>77. AI换模特主图 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ai-model-swap.html
 - 一键生成：https://www.jiling.cc/image-templates/ai-model-swap
@@ -1939,7 +1962,7 @@
 </details>
 
 <details>
-<summary>77. 现代动画概念美术 - Nano Banana Pro / 3:4</summary>
+<summary>78. 现代动画概念美术 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/anime-concept.html
 - 一键生成：https://www.jiling.cc/image-templates/anime-concept
@@ -1967,7 +1990,7 @@
 </details>
 
 <details>
-<summary>78. 角色360度全景 - Nano Banana Pro / 3:2</summary>
+<summary>79. 角色360度全景 - Nano Banana Pro / 3:2</summary>
 
 - 教程页：https://docs.jiling.cc/templates/character-360-panorama.html
 - 一键生成：https://www.jiling.cc/image-templates/character-360-panorama
@@ -1990,7 +2013,7 @@
 </details>
 
 <details>
-<summary>79. 电影肖像照 - Nano Banana Pro / 1:1</summary>
+<summary>80. 电影肖像照 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cinematic-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/cinematic-portrait
@@ -2013,7 +2036,7 @@
 </details>
 
 <details>
-<summary>80. 自定义娃娃机 - Nano Banana Pro / 3:4</summary>
+<summary>81. 自定义娃娃机 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/custom-claw-machine.html
 - 一键生成：https://www.jiling.cc/image-templates/custom-claw-machine
@@ -2042,7 +2065,7 @@
 </details>
 
 <details>
-<summary>81. 服装上身 - Nano Banana Pro / 3:4</summary>
+<summary>82. 服装上身 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/custom-clothing-upperbody.html
 - 一键生成：https://www.jiling.cc/image-templates/custom-clothing-upperbody
@@ -2065,7 +2088,7 @@
 </details>
 
 <details>
-<summary>82. 商品细节特写图 - Nano Banana Pro / 4:5</summary>
+<summary>83. 商品细节特写图 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/detail-shot-generator.html
 - 一键生成：https://www.jiling.cc/image-templates/detail-shot-generator
@@ -2088,7 +2111,7 @@
 </details>
 
 <details>
-<summary>83. 时尚双栏电商图册 - Nano Banana Pro / 3:2</summary>
+<summary>84. 时尚双栏电商图册 - Nano Banana Pro / 3:2</summary>
 
 - 教程页：https://docs.jiling.cc/templates/fashion-catalog.html
 - 一键生成：https://www.jiling.cc/image-templates/fashion-catalog
@@ -2142,7 +2165,7 @@
 </details>
 
 <details>
-<summary>84. 商品平铺图生成 - Nano Banana Pro / 1:1</summary>
+<summary>85. 商品平铺图生成 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/flat-lay-generator.html
 - 一键生成：https://www.jiling.cc/image-templates/flat-lay-generator
@@ -2165,7 +2188,7 @@
 </details>
 
 <details>
-<summary>85. 电商产品悬浮渲染 - Nano Banana Pro / 1:1</summary>
+<summary>86. 电商产品悬浮渲染 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/floating-product-render.html
 - 一键生成：https://www.jiling.cc/image-templates/floating-product-render
@@ -2188,7 +2211,7 @@
 </details>
 
 <details>
-<summary>86. 吉卜力旅行照 - Nano Banana Pro / 3:4</summary>
+<summary>87. 吉卜力旅行照 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ghibli-travel-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/ghibli-travel-photo
@@ -2211,7 +2234,7 @@
 </details>
 
 <details>
-<summary>87. 巨型人物脚手架 - Nano Banana Pro / 9:16</summary>
+<summary>88. 巨型人物脚手架 - Nano Banana Pro / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/giant-scaffold-person.html
 - 一键生成：https://www.jiling.cc/image-templates/giant-scaffold-person
@@ -2234,7 +2257,7 @@
 </details>
 
 <details>
-<summary>88. 玻璃瓶纪念品 - Nano Banana Pro / 3:4</summary>
+<summary>89. 玻璃瓶纪念品 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/glass-bottle-souvenir.html
 - 一键生成：https://www.jiling.cc/image-templates/glass-bottle-souvenir
@@ -2257,7 +2280,7 @@
 </details>
 
 <details>
-<summary>89. 制作证件照 - Nano Banana Pro / 3:4</summary>
+<summary>90. 制作证件照 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/id-photo
@@ -2284,7 +2307,7 @@
 </details>
 
 <details>
-<summary>90. 对童年的自己治疗 - Nano Banana Pro / 3:4</summary>
+<summary>91. 对童年的自己治疗 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/inner-child-healing.html
 - 一键生成：https://www.jiling.cc/image-templates/inner-child-healing
@@ -2313,7 +2336,7 @@
 </details>
 
 <details>
-<summary>91. AI 变装写真 - Nano Banana Pro / 3:4</summary>
+<summary>92. AI 变装写真 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/makeover.html
 - 一键生成：https://www.jiling.cc/image-templates/makeover
@@ -2336,7 +2359,7 @@
 </details>
 
 <details>
-<summary>92. 立方体微缩 - Nano Banana Pro / 1:1</summary>
+<summary>93. 立方体微缩 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/miniature-scene.html
 - 一键生成：https://www.jiling.cc/image-templates/miniature-scene
@@ -2366,7 +2389,7 @@
 </details>
 
 <details>
-<summary>93. 模特换姿势同款图 - Nano Banana Pro / 3:4</summary>
+<summary>94. 模特换姿势同款图 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/model-pose-variation.html
 - 一键生成：https://www.jiling.cc/image-templates/model-pose-variation
@@ -2389,7 +2412,7 @@
 </details>
 
 <details>
-<summary>94. 更换多种发型 - Nano Banana Pro / 3:4</summary>
+<summary>95. 更换多种发型 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/multi-hairstyle-grid.html
 - 一键生成：https://www.jiling.cc/image-templates/multi-hairstyle-grid
@@ -2412,7 +2435,7 @@
 </details>
 
 <details>
-<summary>95. 一键换装上新图 - Nano Banana Pro / 3:4</summary>
+<summary>96. 一键换装上新图 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/one-click-outfit.html
 - 一键生成：https://www.jiling.cc/image-templates/one-click-outfit
@@ -2435,7 +2458,7 @@
 </details>
 
 <details>
-<summary>96. OOTD穿搭 - Nano Banana Pro / 3:4</summary>
+<summary>97. OOTD穿搭 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ootd-styling.html
 - 一键生成：https://www.jiling.cc/image-templates/ootd-styling
@@ -2458,7 +2481,7 @@
 </details>
 
 <details>
-<summary>97. 柔美浪漫香水商拍 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>98. 柔美浪漫香水商拍 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/perfume-romance.html
 - 一键生成：https://www.jiling.cc/image-templates/perfume-romance
@@ -2481,7 +2504,7 @@
 </details>
 
 <details>
-<summary>98. 人物换衣 - Nano Banana Pro / 3:4</summary>
+<summary>99. 人物换衣 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/person-outfit-swap.html
 - 一键生成：https://www.jiling.cc/image-templates/person-outfit-swap
@@ -2504,7 +2527,7 @@
 </details>
 
 <details>
-<summary>99. 照片变玩偶 - Nano Banana Pro / 1:1</summary>
+<summary>100. 照片变玩偶 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/photo-toy.html
 - 一键生成：https://www.jiling.cc/image-templates/photo-toy
@@ -2527,7 +2550,7 @@
 </details>
 
 <details>
-<summary>100. 粉调傲娇定格照 - Nano Banana Pro / 3:4</summary>
+<summary>101. 粉调傲娇定格照 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pink-tsundere-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/pink-tsundere-portrait
@@ -2566,7 +2589,7 @@
 </details>
 
 <details>
-<summary>101. 皮克斯风格 - Nano Banana Pro / 1:1</summary>
+<summary>102. 皮克斯风格 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pixar-avatar.html
 - 一键生成：https://www.jiling.cc/image-templates/pixar-avatar
@@ -2596,7 +2619,7 @@
 </details>
 
 <details>
-<summary>102. 复古旗袍名媛风 - Nano Banana Pro / 3:4</summary>
+<summary>103. 复古旗袍名媛风 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/qipao-gala.html
 - 一键生成：https://www.jiling.cc/image-templates/qipao-gala
@@ -2625,7 +2648,7 @@
 </details>
 
 <details>
-<summary>103. 鞋帽上身展示图 - Nano Banana Pro / 3:4</summary>
+<summary>104. 鞋帽上身展示图 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/shoe-hat-styling.html
 - 一键生成：https://www.jiling.cc/image-templates/shoe-hat-styling
@@ -2648,7 +2671,7 @@
 </details>
 
 <details>
-<summary>104. 九宫格精致写真 - Nano Banana Pro / 1:1</summary>
+<summary>105. 九宫格精致写真 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/social-ninegrid.html
 - 一键生成：https://www.jiling.cc/image-templates/social-ninegrid
@@ -2688,7 +2711,7 @@
 </details>
 
 <details>
-<summary>105. 电商虚拟试穿 - Nano Banana Pro / 3:4</summary>
+<summary>106. 电商虚拟试穿 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/virtual-try-on.html
 - 一键生成：https://www.jiling.cc/image-templates/virtual-try-on
@@ -2711,7 +2734,7 @@
 </details>
 
 <details>
-<summary>106. Vogue封面 - Gemini 3.1 Flash Image Preview / 3:4</summary>
+<summary>107. Vogue封面 - Gemini 3.1 Flash Image Preview / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/vogue-cover.html
 - 一键生成：https://www.jiling.cc/image-templates/vogue-cover
@@ -2750,7 +2773,7 @@
 </details>
 
 <details>
-<summary>107. 电商商品海报 - Nano Banana Pro / 4:5</summary>
+<summary>108. 电商商品海报 - Nano Banana Pro / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce
@@ -2773,7 +2796,7 @@
 </details>
 
 <details>
-<summary>108. 餐饮菜单大片 - Nano Banana Pro / 4:3</summary>
+<summary>109. 餐饮菜单大片 - Nano Banana Pro / 4:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/food.html
 - 一键生成：https://www.jiling.cc/image-templates/food
@@ -2796,7 +2819,7 @@
 </details>
 
 <details>
-<summary>109. 儿童绘本插画 - Nano Banana Pro / 4:3</summary>
+<summary>110. 儿童绘本插画 - Nano Banana Pro / 4:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/kids.html
 - 一键生成：https://www.jiling.cc/image-templates/kids
@@ -2819,7 +2842,7 @@
 </details>
 
 <details>
-<summary>110. 节日营销海报 - Nano Banana Pro / 9:16</summary>
+<summary>111. 节日营销海报 - Nano Banana Pro / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/poster.html
 - 一键生成：https://www.jiling.cc/image-templates/poster
@@ -2842,7 +2865,7 @@
 </details>
 
 <details>
-<summary>111. 潮玩玩具包装 - Nano Banana Pro / 1:1</summary>
+<summary>112. 潮玩玩具包装 - Nano Banana Pro / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/toy.html
 - 一键生成：https://www.jiling.cc/image-templates/toy
@@ -2865,7 +2888,7 @@
 </details>
 
 <details>
-<summary>112. 复古大头贴 - Gemini 3.1 Flash Image Preview / 9:16</summary>
+<summary>113. 复古大头贴 - Gemini 3.1 Flash Image Preview / 9:16</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-photo-booth-sticker.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-photo-booth-sticker
@@ -2888,7 +2911,7 @@
 </details>
 
 <details>
-<summary>113. 复古婚礼录像风 - Gemini 3.1 Flash Image Preview / 4:3</summary>
+<summary>114. 复古婚礼录像风 - Gemini 3.1 Flash Image Preview / 4:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-wedding-video.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-wedding-video
@@ -2911,7 +2934,7 @@
 </details>
 
 <details>
-<summary>114. 迪厅闪光风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
+<summary>115. 迪厅闪光风 - Gemini 3.1 Flash Image Preview / 4:5</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-disco-flash.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-disco-flash
@@ -2934,7 +2957,7 @@
 </details>
 
 <details>
-<summary>115. 明星影视作品海报 - Nano Banana Pro / 3:4</summary>
+<summary>116. 明星影视作品海报 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/annual-filmography-collage-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/annual-filmography-collage-poster
@@ -2983,7 +3006,127 @@
 </details>
 
 <details>
-<summary>116. 搞笑涂鸦风格 - GPT Image 2 / 2:3</summary>
+<summary>117. 分屏大变身 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/split-screen-transformation.html
+- 一键生成：https://www.jiling.cc/image-templates/split-screen-transformation
+- 分类：人物写真 / 多视角写真
+- 标签：多视角写真、分屏对比、卡通变身、人物写真
+
+效果图：
+
+[![分屏大变身](assets/readme-previews/split-screen-transformation.webp)](templates/split-screen-transformation.html)
+
+
+提示词说明：可以继续补充希望右侧更偏可爱、搞笑、惊讶、Q 版或动漫感，也可以指定左侧保持原图背景和服装细节。
+
+提示词：
+
+````text
+根据用户上传的参考图片，生成一张左右分屏并排人像图。左侧为写实版本，准确保留原图人物的外貌特征、发型、发色、表情、服装、配饰、姿势、手势、背景和光影氛围，呈现自然真实、细节清晰的高质量人像效果。右侧为同一人物的搞笑夸张卡通版本，保持与左侧完全相同的姿势、服装、发型、配饰、背景和构图，但将脸部表情夸张化，加入超大眼睛、夸张笑容或惊讶表情、红润脸颊、俏皮比例和幽默动画感。整体形成“真实版 vs 卡通版”的有趣对比，采用柔和色彩、温暖美学灯光、精致数字插画质感、动漫卡通融合风格，画面可爱、搞笑、高清、细节丰富。不要改变人物身份，不要添加额外人物，不要让左右两侧的服装、背景或动作不一致。
+````
+
+</details>
+
+<details>
+<summary>118. 韩风手绘爆款插画 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/korean-handdrawn-viral-illustration.html
+- 一键生成：https://www.jiling.cc/image-templates/korean-handdrawn-viral-illustration
+- 分类：二次元/漫画 / 角色插画
+- 标签：角色插画、韩风手绘、社媒海报、二次元/漫画
+
+效果图：
+
+[![韩风手绘爆款插画](assets/readme-previews/korean-handdrawn-viral-illustration.webp)](templates/korean-handdrawn-viral-illustration.html)
+
+
+提示词说明：你可以继续补充想要的气质方向，例如清冷、温柔、俏皮、松弛、酷感或少年感，也可以指定背景纸张颜色和涂鸦元素。
+
+提示词：
+
+````text
+请基于用户上传的人物照片，创作一张具有韩风手绘涂鸦插画感的人物海报。
+
+保留人物的真实身份特征、五官辨识度、发型轮廓、整体气质与神态印象，但不要做成写实照片转绘。整体应明显偏向“画出来的插画”，具有韩系半写实插图的角色感、漫画草图感和高级社媒海报感。
+
+画面为半身人物构图，人物姿态可以加入轻微动态感，例如微微侧身、自然转头、肩颈放松、手部轻轻入镜或衣摆发丝带有轻微动势。面部表情要自然、有情绪、有呼吸感，可以根据原照片气质自由强化为清冷、温柔、俏皮、松弛、酷感或少年感，但不要夸张变形。
+
+风格重点：松散自发的黑色墨水勾线、手绘草稿线、随性涂鸦笔触、局部未完成感、可见笔刷纹理、墨迹飞溅、线条重叠、边缘松弛、服装与头发细节丰富但不过度工整。色彩使用柔和粉彩色调，结合淡淡墨水阴影与轻微水彩晕染，整体轻盈、精致、灵动，有韩风插画师手稿海报的质感。
+
+背景保持简约高级，可使用纯白、米白、浅灰、淡粉、浅蓝或纸张纹理背景。围绕人物自由加入少量手写短句、星星、爱心、箭头、墨点、小贴纸、胶带、随手圈画、涂鸦符号等装饰元素。装饰要自然分布，不要喧宾夺主。文案内容请根据人物气质自由发挥，像社交媒体上会被转发收藏的韩系人物海报。
+
+整体氛围：高级、轻盈、松弛、灵动、有态度，像Instagram / 小红书上容易爆火的韩系手绘人物海报。画面应兼具精致完成度与随性涂鸦感，人物要有鲜明角色记忆点。
+
+避免：高度写实、照片感太强、AI精修写真感、厚重油画感、过度光滑皮肤、五官失真、表情僵硬、线条太干净工整、背景过满、装饰杂乱、塑料质感、3D感、过度商业海报感、低质动漫头像感。
+````
+
+</details>
+
+<details>
+<summary>119. 超写实迷你娃娃 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/hyperreal-mini-doll.html
+- 一键生成：https://www.jiling.cc/image-templates/hyperreal-mini-doll
+- 分类：IP形象/手办 / 收藏手办
+- 标签：收藏手办、迷你娃娃、超写实玩具、IP形象/手办
+
+效果图：
+
+[![超写实迷你娃娃](assets/readme-previews/hyperreal-mini-doll.webp)](templates/hyperreal-mini-doll.html)
+
+
+提示词说明：可以补充希望保留的发型、服装、表情、娃娃材质、摄影角度和巧克力痕迹细节。
+
+提示词：
+
+````text
+创建一个超写实、高级手工收藏娃娃，灵感完全来自上传的照片，并以最高准确度保留面部特征，包括脸部结构、比例、眼睛、表情、皮肤细节以及所有自然的不对称特征。娃娃应呈现迷人的手工质感，头部略微偏大，身体小巧纤细，脸颊柔软圆润，眼睛晶莹清澈，并拥有高度精细的毛毡与布料纹理。
+
+这个迷你娃娃正紧紧抱着一块巨大的 Feastables 巧克力棒，巧克力棒几乎和她整个身体一样大。巧克力上已经被咬掉了好几大口。她露出得意又调皮的笑容，同时坚决不肯松开巧克力。她的嘴唇、脸颊、手指和双手上可以看到少量巧克力痕迹。地板周围散落着几滴融化的巧克力和一些巧克力碎屑。
+
+一根巨大的真人手指正轻轻拎起娃娃衣服的背部，营造出强烈的比例感，但她仍然倔强地继续抱着 Feastables 巧克力棒不放。 tiny娃娃与巨大人手之间的尺寸差异应显得戏剧化且极具视觉冲击力。
+
+高级微缩场景微距摄影，极致近距离细节，温暖明亮的灯光，干净简约的摄影棚环境，浅景深，真实的手工玩具材质，电影感对焦，奢华产品摄影，高度写实的纹理，可爱的收藏玩具美学，超清晰 8K 画质，照片级真实渲染，专业商业广告风格，与上传参考图像的面部相似度极高。
+````
+
+</details>
+
+<details>
+<summary>120. 狂热角色速写 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/fanatic-character-sketchbook.html
+- 一键生成：https://www.jiling.cc/image-templates/fanatic-character-sketchbook
+- 分类：广告创意 / 草图细化
+- 标签：草图细化、角色速写、日系漫画、广告创意
+
+效果图：
+
+[![狂热角色速写](assets/readme-previews/fanatic-character-sketchbook.webp)](templates/fanatic-character-sketchbook.html)
+
+
+提示词说明：可以补充角色姓名、性格关键词、代表动作、常见表情、标志性配件和想加入的手写涂鸦短句。
+
+提示词：
+
+````text
+根据用户上传的角色参考图生成同一人物。像狂热粉丝画师凭着情绪把一整页速写本填满的感觉。
+
+画面是一整页日系漫画速写本插画，像狂热粉丝画师凭着情绪把整张纸画满。白色速写本背景，左侧可见螺旋装订边或速写本边缘。整页反复出现同一个参考图角色的不同画法和瞬间。
+
+构图极度密集、杂乱、重叠，没有整齐排列，几乎没有留白。包含多个全身姿势、半身像、背影、侧脸、坐姿、跳跃动作、奔跑动作、迷你Q版角色、手部特写、眼睛特写、脸部大特写。表情丰富夸张：害羞脸红、开心微笑、惊讶、慌张、眼睛发光、紧张流汗、被夸到不知所措。
+
+周围布满手写感日文涂鸦、中文涂鸦、爱心、星星、感叹号、速度线、汗滴、脸红符号和漫画气泡，像粉丝笔记一样疯狂赞美角色：“太可爱了”“最喜欢”等词。整体有强烈速写感、草稿感和手绘能量，线条灵动，彩色马克笔上色，局部像未完成涂鸦。画面热闹、混乱、信息量爆炸，充满粉丝滤镜和狂热喜爱。
+
+负面提示词：
+
+不要改变参考图人物特征，不要换发色，不要换服装，不要成人化，不要性感化，不要暴露服装，不要写实风格，不要整齐网格排版，不要单一人物，不要单一姿势，不要大面积留白，不要干净海报设计，不要背景场景过复杂，不要低细节，不要恐怖血腥。
+````
+
+</details>
+
+<details>
+<summary>121. 搞笑涂鸦风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/funny-doodle-style.html
 - 一键生成：https://www.jiling.cc/image-templates/funny-doodle-style
@@ -3010,7 +3153,7 @@
 </details>
 
 <details>
-<summary>117. 手绘涂鸦卡通肖像 - GPT Image 2 / 2:3</summary>
+<summary>122. 手绘涂鸦卡通肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hand-drawn-doodle-cartoon-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/hand-drawn-doodle-cartoon-portrait
@@ -3045,7 +3188,7 @@
 </details>
 
 <details>
-<summary>118. 朋友圈动态截图 - GPT Image 2 / 2:3</summary>
+<summary>123. 朋友圈动态截图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/moments-feed-screenshot.html
 - 一键生成：https://www.jiling.cc/image-templates/moments-feed-screenshot
@@ -3068,7 +3211,7 @@
 </details>
 
 <details>
-<summary>119. 极简2D扁平插画 - GPT Image 2 / 2:3</summary>
+<summary>124. 极简2D扁平插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/minimal-2d-flat-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/minimal-2d-flat-illustration
@@ -3100,7 +3243,7 @@
 </details>
 
 <details>
-<summary>120. 水晶露珠肌效果 - GPT Image 2 / 2:3</summary>
+<summary>125. 水晶露珠肌效果 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/crystal-dew-skin-effect.html
 - 一键生成：https://www.jiling.cc/image-templates/crystal-dew-skin-effect
@@ -3135,7 +3278,7 @@
 </details>
 
 <details>
-<summary>121. 复古怪诞插画 - GPT Image 2 / 2:3</summary>
+<summary>126. 复古怪诞插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-grotesque-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-grotesque-illustration
@@ -3164,7 +3307,7 @@
 </details>
 
 <details>
-<summary>122. 杂志剪贴风格 - GPT Image 2 / 2:3</summary>
+<summary>127. 杂志剪贴风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/magazine-cutout-collage-style.html
 - 一键生成：https://www.jiling.cc/image-templates/magazine-cutout-collage-style
@@ -3208,7 +3351,7 @@
 </details>
 
 <details>
-<summary>123. Q版克隆贴纸照片 - GPT Image 2 / 2:3</summary>
+<summary>128. Q版克隆贴纸照片 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/chibi-clone-sticker-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/chibi-clone-sticker-photo
@@ -3243,7 +3386,7 @@
 </details>
 
 <details>
-<summary>124. Vogue时尚插画 - GPT Image 2 / 2:3</summary>
+<summary>129. Vogue时尚插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/vogue-fashion-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/vogue-fashion-illustration
@@ -3266,7 +3409,7 @@
 </details>
 
 <details>
-<summary>125. 银翼梦偶 - GPT Image 2 / 2:3</summary>
+<summary>130. 银翼梦偶 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/silver-wing-dream-doll.html
 - 一键生成：https://www.jiling.cc/image-templates/silver-wing-dream-doll
@@ -3306,7 +3449,7 @@
 </details>
 
 <details>
-<summary>126. 清新蓝底证件照 - GPT Image 2 / 2:3</summary>
+<summary>131. 清新蓝底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/fresh-blue-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/fresh-blue-id-photo
@@ -3329,7 +3472,7 @@
 </details>
 
 <details>
-<summary>127. 儿童蜡笔风格 - GPT Image 2 / 2:3</summary>
+<summary>132. 儿童蜡笔风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/children-crayon-style.html
 - 一键生成：https://www.jiling.cc/image-templates/children-crayon-style
@@ -3352,7 +3495,7 @@
 </details>
 
 <details>
-<summary>128. 拟物化图标 - GPT Image 2 / 1:1</summary>
+<summary>133. 拟物化图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/skeuomorphic-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/skeuomorphic-icon-set
@@ -3380,7 +3523,7 @@
 </details>
 
 <details>
-<summary>129. 线面结合图标 - GPT Image 2 / 1:1</summary>
+<summary>134. 线面结合图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/line-fill-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/line-fill-icon-set
@@ -3408,7 +3551,7 @@
 </details>
 
 <details>
-<summary>130. 食品商业海报 - GPT Image 2 / 2:3</summary>
+<summary>135. 食品商业海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/food-commercial-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/food-commercial-poster
@@ -3441,7 +3584,7 @@
 </details>
 
 <details>
-<summary>131. 影楼级黑白写真 - GPT Image 2 / 2:3</summary>
+<summary>136. 影楼级黑白写真 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/studio-grade-black-white-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/studio-grade-black-white-portrait
@@ -3485,7 +3628,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>132. 个人资料卡 - GPT Image 2 / 2:3</summary>
+<summary>137. 个人资料卡 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-profile-card.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-profile-card
@@ -3508,7 +3651,58 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>133. 白底证件照 - GPT Image 2 / 2:3</summary>
+<summary>138. 节日倒计时海报 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/festival-countdown-poster.html
+- 一键生成：https://www.jiling.cc/image-templates/festival-countdown-poster
+- 分类：社媒内容 / 拼贴海报
+- 标签：节日海报、倒计时封面、热点内容、拼贴海报、社媒内容
+
+效果图：
+
+[![节日倒计时海报](assets/readme-previews/festival-countdown-poster.webp)](templates/festival-countdown-poster.html)
+
+
+提示词说明：你可以替换节日名称、主题文案、倒计时天数和想出现的小物，也可以补充更适合品牌账号、博主笔记或朋友圈转发的方向。
+
+提示词：
+
+````text
+生成一张节日热点内容封面：
+节日是：端午节
+主题是：端午安康
+倒计时：02天
+
+画面中心是强情绪主视觉，周围有倒计时数字、清单模块、贴纸和仪式感小物。整体适合小红书和朋友圈转发，温暖、精致、有当下感，不要传统节庆红金堆砌。
+````
+
+</details>
+
+<details>
+<summary>139. 小红书收藏型封面 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/xiaohongshu-saveable-cover.html
+- 一键生成：https://www.jiling.cc/image-templates/xiaohongshu-saveable-cover
+- 分类：社媒内容 / 拼贴海报
+- 标签：小红书封面、收藏型封面、拼贴海报、社媒内容
+
+效果图：
+
+[![小红书收藏型封面](assets/readme-previews/xiaohongshu-saveable-cover.webp)](templates/xiaohongshu-saveable-cover.html)
+
+
+提示词说明：你可以替换主题、标题方向、四个模块内容或封面色调，也可以指定更像真实博主笔记、攻略封面、避坑清单或收藏卡片。
+
+提示词：
+
+````text
+生成一张适合小红书发布的竖版收藏型封面，主题是：机灵助手AI免费生图。画面要一眼可读、强停留、强收藏，顶部放大标题，标题控制在 8-12 个中文字符，副标题为。中间用 4 个圆角信息模块展示：避坑点、推荐做法、适合人群、快速结论。整体像真实博主做的高质感内容封面，干净浅色背景，手写标注、小贴纸、局部照片拼贴、轻微纸张纹理，不要做成广告海报。中文文字尽量清晰，不要乱码。
+````
+
+</details>
+
+<details>
+<summary>140. 白底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/white-background-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/white-background-id-photo
@@ -3531,7 +3725,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>134. 极简风格插画 - GPT Image 2 / 2:3</summary>
+<summary>141. 极简风格插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/minimalist-editorial-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/minimalist-editorial-illustration
@@ -3554,7 +3748,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>135. 奶茶飞溅风格 - GPT Image 2 / 2:3</summary>
+<summary>142. 奶茶飞溅风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/milk-tea-splash-style.html
 - 一键生成：https://www.jiling.cc/image-templates/milk-tea-splash-style
@@ -3599,7 +3793,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>136. 卡通蜡笔风格 - GPT Image 2 / 2:3</summary>
+<summary>143. 卡通蜡笔风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cartoon-crayon-style.html
 - 一键生成：https://www.jiling.cc/image-templates/cartoon-crayon-style
@@ -3622,7 +3816,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>137. 彩色线条手绘 - GPT Image 2 / 2:3</summary>
+<summary>144. 彩色线条手绘 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/colorful-doodle-line-art.html
 - 一键生成：https://www.jiling.cc/image-templates/colorful-doodle-line-art
@@ -3645,7 +3839,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>138. 3D图标 - GPT Image 2 / 1:1</summary>
+<summary>145. 3D图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/3d-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/3d-icon-set
@@ -3673,7 +3867,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>139. 拼豆像素图纸 - Nano Banana Pro / 3:4</summary>
+<summary>146. 拼豆像素图纸 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/perler-bead-pixel-pattern.html
 - 一键生成：https://www.jiling.cc/image-templates/perler-bead-pixel-pattern
@@ -3715,7 +3909,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>140. 商务档案头像 - GPT Image 2 / 2:3</summary>
+<summary>147. 商务档案头像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/business-profile-headshot.html
 - 一键生成：https://www.jiling.cc/image-templates/business-profile-headshot
@@ -3755,7 +3949,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>141. 电商产品介绍图 - GPT Image 2 / 2:3</summary>
+<summary>148. 电商产品介绍图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-product-intro-image.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-product-intro-image
@@ -3778,7 +3972,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>142. 线性图标 - GPT Image 2 / 1:1</summary>
+<summary>149. 线性图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/linear-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/linear-icon-set
@@ -3806,7 +4000,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>143. 超写实概念肖像 - GPT Image 2 / 2:3</summary>
+<summary>150. 超写实概念肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hyperreal-concept-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/hyperreal-concept-portrait
@@ -3850,7 +4044,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>144. 个人妆容分析 - GPT Image 2 / 2:3</summary>
+<summary>151. 个人妆容分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-makeup-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-makeup-analysis
@@ -3879,7 +4073,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>145. 甜点促销海报 - GPT Image 2 / 2:3</summary>
+<summary>152. 甜点促销海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/dessert-sale-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/dessert-sale-poster
@@ -3902,7 +4096,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>146. 手提产品包装设计 - GPT Image 2 / 2:3</summary>
+<summary>153. 手提产品包装设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/handled-product-packaging-design.html
 - 一键生成：https://www.jiling.cc/image-templates/handled-product-packaging-design
@@ -3925,7 +4119,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>147. 产品包装设计 - GPT Image 2 / 2:3</summary>
+<summary>154. 产品包装设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/product-packaging-design.html
 - 一键生成：https://www.jiling.cc/image-templates/product-packaging-design
@@ -3948,7 +4142,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>148. 手工纸雕插画 - GPT Image 2 / 2:3</summary>
+<summary>155. 手工纸雕插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/handmade-paper-sculpture-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/handmade-paper-sculpture-illustration
@@ -3971,7 +4165,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>149. 红底证件照 - GPT Image 2 / 2:3</summary>
+<summary>156. 红底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/red-background-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/red-background-id-photo
@@ -3994,7 +4188,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>150. 电商促销海报设计 - GPT Image 2 / 2:3</summary>
+<summary>157. 电商促销海报设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-sale-poster-design.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-sale-poster-design
@@ -4017,7 +4211,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>151. 护肤品促销海报 - GPT Image 2 / 2:3</summary>
+<summary>158. 护肤品促销海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/skincare-promo-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/skincare-promo-poster
@@ -4040,7 +4234,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>152. 皮克斯3D儿童肖像 - GPT Image 2 / 2:3</summary>
+<summary>159. 皮克斯3D儿童肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pixar-3d-child-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/pixar-3d-child-portrait
@@ -4096,7 +4290,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>153. 科普百科图 - GPT Image 2 / 2:3</summary>
+<summary>160. 科普百科图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/encyclopedia-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/encyclopedia-infographic
@@ -4137,7 +4331,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>154. 异国旅行海报 - GPT Image 2 / 2:3</summary>
+<summary>161. 异国旅行海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/lost-in-country-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/lost-in-country-poster
@@ -4178,7 +4372,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>155. 个人色彩分析 - GPT Image 2 / 2:3</summary>
+<summary>162. 个人色彩分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-color-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-color-analysis
@@ -4211,7 +4405,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>156. 个人穿搭分析 - GPT Image 2 / 2:3</summary>
+<summary>163. 个人穿搭分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-outfit-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-outfit-analysis
@@ -4242,7 +4436,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>157. 个人发型分析 - GPT Image 2 / 2:3</summary>
+<summary>164. 个人发型分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-hairstyle-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-hairstyle-analysis
@@ -4275,7 +4469,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>158. Nike超现实海报 - GPT Image 2 / 2:3</summary>
+<summary>165. Nike超现实海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/nike-surreal-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/nike-surreal-poster
@@ -4298,7 +4492,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>159. 角色设定图 - GPT Image 2 / 2:3</summary>
+<summary>166. 角色设定图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/character-design-sheet.html
 - 一键生成：https://www.jiling.cc/image-templates/character-design-sheet
@@ -4332,7 +4526,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>160. 技术信息图 - GPT Image 2 / 2:3</summary>
+<summary>167. 技术信息图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/technical-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/technical-infographic
@@ -4376,7 +4570,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>161. 情侣漫步拼贴画 - GPT Image 2 / 2:3</summary>
+<summary>168. 情侣漫步拼贴画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/couple-stroll-collage.html
 - 一键生成：https://www.jiling.cc/image-templates/couple-stroll-collage
@@ -4422,7 +4616,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>162. 高级时装人像 - GPT Image 2 / 2:3</summary>
+<summary>169. 高级时装人像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/high-fashion-editorial-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/high-fashion-editorial-portrait
@@ -4453,7 +4647,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>163. 超市特价传单 - GPT Image 2 / 2:3</summary>
+<summary>170. 超市特价传单 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/community-supermarket-flyer.html
 - 一键生成：https://www.jiling.cc/image-templates/community-supermarket-flyer
@@ -4476,7 +4670,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>164. 东方幻想风格女性 - GPT Image 2 / 2:3</summary>
+<summary>171. 东方幻想风格女性 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/eastern-fantasy-female.html
 - 一键生成：https://www.jiling.cc/image-templates/eastern-fantasy-female
@@ -4509,7 +4703,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>165. 拆解信息图 - GPT Image 2 / 2:3</summary>
+<summary>172. 拆解信息图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/deconstruction-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/deconstruction-infographic
@@ -4547,7 +4741,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>166. 电商详情图 - GPT Image 2 / 2:3</summary>
+<summary>173. 电商详情图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-detail-image.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-detail-image
@@ -4570,7 +4764,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>167. 旅游攻略 - GPT Image 2 / 2:3</summary>
+<summary>174. 旅游攻略 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/travel-guide.html
 - 一键生成：https://www.jiling.cc/image-templates/travel-guide
@@ -4593,7 +4787,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>168. 书法临摹贴 - GPT Image 2 / 2:3</summary>
+<summary>175. 书法临摹贴 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/calligraphy-copybook.html
 - 一键生成：https://www.jiling.cc/image-templates/calligraphy-copybook

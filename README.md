@@ -3035,7 +3035,51 @@
 </details>
 
 <details>
-<summary>118. 手账涂鸦头像卡 - GPT Image 2 / 2:3</summary>
+<summary>118. 儿童涂鸦风插画 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/children-doodle-style-illustration.html
+- 一键生成：https://www.jiling.cc/image-templates/children-doodle-style-illustration
+- 分类：AI变装 / 二次元变身
+- 标签：二次元变身、儿童涂鸦、低成本梗图、AI变装
+
+效果图：
+
+[![儿童涂鸦风插画](assets/readme-previews/children-doodle-style-illustration.webp)](templates/children-doodle-style-illustration.html)
+
+
+提示词说明：可以继续补充想要更呆滞、更莫名兴奋、更沙雕，或指定箭头、圈圈、波浪线、小星星、奇怪符号等涂鸦元素。
+
+提示词：
+
+````text
+请将参考照片改绘成一幅笨拙、潦草、荒诞搞笑的儿童涂鸦风插画。保留原照片中人物或主体的核心辨识特征、基本姿势和主要关系，但不要写实还原。
+
+画面质感：
+呈现出使用廉价马克笔、蜡笔和彩色水笔随手乱画的效果。线条歪斜、断续、重复且不稳定，轮廓不闭合，带有明显手抖感和随意修改的痕迹。整体像未经训练的人快速完成的草稿，幼稚、粗糙、不讲究。
+
+造型与构图：
+故意破坏正常比例和透视关系。人物头身比例失衡，四肢、脸型或物体结构可以略微扭曲，构图不对称、不规整，空间关系带有笨拙的错位感。不要追求解剖准确或画面平衡。
+
+表情与五官：
+在保留人物辨识度的基础上，对五官进行适度夸张，例如眼睛大小不一、嘴角歪斜、眉毛高低不平、表情呆滞或莫名兴奋，形成沙雕、滑稽、适合网络表情包的喜剧效果。夸张但不要恐怖。
+
+背景与附加元素：
+根据参考照片的场景进行简单联想，添加极简漫画式背景。背景只需用少量歪斜线条和粗糙色块暗示环境，不必完整描绘。画面中加入一些无意义的乱涂线、箭头、圈圈、波浪线、小星星、奇怪符号和细碎涂鸦，使画面显得更加随意和荒诞。
+
+上色方式：
+色彩简单、直接、略显俗气。保留上色不均、留白、重叠、涂出轮廓、颜色错位和明显笔触。局部可以故意漏涂或胡乱补色，不要使用平滑渐变、精致光影或统一整洁的配色。
+
+整体氛围：
+像是有人敷衍地随手画了几分钟，却意外产生很好笑的效果。画面要有“毫无绘画基础但很有梗”的感觉，轻松、沙雕、幼稚、荒诞，贴近网络趣味表情包和低成本手绘梗图的氛围。
+
+必须避免：
+不要写实，不要精细刻画，不要干净流畅的线稿，不要准确透视，不要标准人体比例，不要专业插画感，不要高级设计感，不要精致完整的背景，不要平滑数字绘画质感，不要复杂光影，不要把画面自动美化得整齐漂亮。
+````
+
+</details>
+
+<details>
+<summary>119. 手账涂鸦头像卡 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/journal-doodle-avatar-card.html
 - 一键生成：https://www.jiling.cc/image-templates/journal-doodle-avatar-card
@@ -3058,7 +3102,38 @@
 </details>
 
 <details>
-<summary>119. 印象派风格油画 - GPT Image 2 / 2:3</summary>
+<summary>120. 毛线团小人潦草风 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/yarn-ball-figure-doodle-style.html
+- 一键生成：https://www.jiling.cc/image-templates/yarn-ball-figure-doodle-style
+- 分类：AI变装 / 二次元变身
+- 标签：二次元变身、毛线团小人、潦草涂鸦、AI变装
+
+效果图：
+
+[![毛线团小人潦草风](assets/readme-previews/yarn-ball-figure-doodle-style.webp)](templates/yarn-ball-figure-doodle-style.html)
+
+
+提示词说明：可以继续补充想要更软乎乎、更乱线球、更刚睡醒，或指定小星星、小脚印、爱心、线团和旋转线等装饰元素。
+
+提示词：
+
+````text
+把参考照片改绘成一张像毛线团一样乱糟糟的可爱人物涂鸦。人物整体由很多松散、重叠、弯弯曲曲的线条组成，轮廓像没有一次画准，反复描了很多遍。
+
+保留参考照片中的动作和主要特征，但将身体简化成小小一团，头大身小，头发像乱线球，衣服像随手套上的不规则色块。手指和鞋子不用画完整，只用几根短线表示。
+
+脸部画成极简呆萌表情，眼睛是两个小圆点，嘴巴是短短的弧线，偶尔加入歪斜的眉毛和淡淡腮红。背景加入线团、毛线小球、小星星、小脚印、爱心和没有意义的旋转线。
+
+上色像用快没水的马克笔涂成，颜色深浅不一、漏白明显。整体应当显得软乎乎、乱糟糟、轻飘飘，像一只刚睡醒、还没有整理好的小生物。
+
+不要整齐线稿，不要精细毛发，不要真实材质，不要漂亮渐变，不要完整细节。
+````
+
+</details>
+
+<details>
+<summary>121. 印象派风格油画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/impressionist-oil-painting.html
 - 一键生成：https://www.jiling.cc/image-templates/impressionist-oil-painting
@@ -3081,7 +3156,7 @@
 </details>
 
 <details>
-<summary>120. Q版掌心小气包 - GPT Image 2 / 2:3</summary>
+<summary>122. Q版掌心小气包 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/chibi-palm-pouty-figure.html
 - 一键生成：https://www.jiling.cc/image-templates/chibi-palm-pouty-figure
@@ -3106,7 +3181,40 @@
 </details>
 
 <details>
-<summary>121. 抽象头像九宫格 - GPT Image 2 / 1:1</summary>
+<summary>123. 贴纸失败品可爱风 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/failed-sticker-cute-style.html
+- 一键生成：https://www.jiling.cc/image-templates/failed-sticker-cute-style
+- 分类：AI变装 / 二次元变身
+- 标签：二次元变身、失败贴纸、可爱涂鸦、AI变装
+
+效果图：
+
+[![贴纸失败品可爱风](assets/readme-previews/failed-sticker-cute-style.webp)](templates/failed-sticker-cute-style.html)
+
+
+提示词说明：可以继续补充想要开心呆住、尴尬微笑、委屈鼓脸或小心翼翼挥手，也可以指定旧笔记本、纸箱或练习册封面背景。
+
+提示词：
+
+````text
+将参考照片改绘成一张自制贴纸失败品风格的可爱涂鸦。保留人物或主体的基本姿势与特征，把轮廓压缩成简单、圆润、笨笨的贴纸造型。
+
+外轮廓使用粗黑马克笔反复描边，线条宽窄不一，边缘抖动，白色贴纸边框也要歪斜、不均匀，像用剪刀手工剪坏了一点。人物头部偏大，五官挤在一起，手脚短小，动作略显僵硬。
+
+表情可以是开心到呆住、尴尬微笑、委屈鼓脸或小心翼翼地挥手。加入爱心、星星、小花、蝴蝶结、迷你水果和奇怪的小伙伴作为装饰。
+
+使用明亮但柔和的颜色，涂色出界，局部出现漏色、重叠和笔触。背景保持简单，像贴在旧笔记本、纸箱或练习册封面上。
+
+整体像一个人第一次尝试制作角色贴纸，虽然剪歪了、画糊了，却因为笨拙而显得更加可爱、有趣、有收藏感。
+
+不要商业贴纸质感，不要矢量图，不要平滑描边，不要完美白边，不要精致排版，不要高级渲染。
+````
+
+</details>
+
+<details>
+<summary>124. 抽象头像九宫格 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/abstract-avatar-nine-grid.html
 - 一键生成：https://www.jiling.cc/image-templates/abstract-avatar-nine-grid
@@ -3157,7 +3265,38 @@
 </details>
 
 <details>
-<summary>122. 丑萌涂鸦九宫格 - GPT Image 2 / 2:3</summary>
+<summary>125. 幼儿园蜡笔翻车风 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/kindergarten-crayon-fail-style.html
+- 一键生成：https://www.jiling.cc/image-templates/kindergarten-crayon-fail-style
+- 分类：AI变装 / 二次元变身
+- 标签：二次元变身、蜡笔涂鸦、翻车表情包、AI变装
+
+效果图：
+
+[![幼儿园蜡笔翻车风](assets/readme-previews/kindergarten-crayon-fail-style.webp)](templates/kindergarten-crayon-fail-style.html)
+
+
+提示词说明：可以继续补充想要更呆滞、更震惊、更莫名自信的表情，也可以指定太阳、云朵、小花、房子、火柴人等儿童画背景元素。
+
+提示词：
+
+````text
+把参考照片改绘成一张幼儿园小朋友画崩了的蜡笔涂鸦插画。保留照片中人物或主体最有辨识度的特征、服装和姿势，但故意画得比例失调：脑袋偏大、四肢长短不一、肩膀歪斜，透视关系略微混乱，像一个不太会画画的小孩凭印象随手完成。
+
+使用廉价蜡笔、粗头彩色马克笔和铅笔混合绘制，线条粗糙、断断续续、反复描边，轮廓明显抖动。脸部五官夸张又滑稽，眼睛大小不一致，嘴巴歪向一边，表情呆滞、震惊或莫名自信，具有沙雕表情包效果。
+
+背景改成简单的儿童画场景，根据原照片自由添加歪歪扭扭的太阳、云朵、小花、草地、房子或火柴人。画面四周加入小星星、爱心、问号、箭头、乱七八糟的圈线和不明符号。色彩鲜艳但搭配随意，上色严重不均匀，允许涂出轮廓、留下大块空白和明显蜡笔摩擦痕迹。
+
+整体要像一张被家长勉强贴在冰箱上的儿童作品：笨拙、敷衍、翻车，却莫名可爱又非常好笑。
+
+不要写实，不要精致，不要标准人体结构，不要干净线稿，不要专业儿童插画，不要柔和渐变，不要高级光影，不要完整细化。
+````
+
+</details>
+
+<details>
+<summary>126. 丑萌涂鸦九宫格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ugly-cute-doodle-nine-grid.html
 - 一键生成：https://www.jiling.cc/image-templates/ugly-cute-doodle-nine-grid
@@ -3180,7 +3319,7 @@
 </details>
 
 <details>
-<summary>123. 宠物瑜伽裤造型 - GPT Image 2 / 2:3</summary>
+<summary>127. 宠物瑜伽裤造型 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pet-yoga-pants-style.html
 - 一键生成：https://www.jiling.cc/image-templates/pet-yoga-pants-style
@@ -3209,7 +3348,7 @@
 </details>
 
 <details>
-<summary>124. 分屏大变身 - GPT Image 2 / 2:3</summary>
+<summary>128. 分屏大变身 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/split-screen-transformation.html
 - 一键生成：https://www.jiling.cc/image-templates/split-screen-transformation
@@ -3232,7 +3371,7 @@
 </details>
 
 <details>
-<summary>125. 韩风手绘爆款插画 - GPT Image 2 / 2:3</summary>
+<summary>129. 韩风手绘爆款插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/korean-handdrawn-viral-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/korean-handdrawn-viral-illustration
@@ -3267,7 +3406,43 @@
 </details>
 
 <details>
-<summary>126. 超写实迷你娃娃 - GPT Image 2 / 2:3</summary>
+<summary>130. K-pop舞蹈编排 - GPT Image 2 / 2:3</summary>
+
+- 教程页：https://docs.jiling.cc/templates/k-pop-dance-choreography.html
+- 一键生成：https://www.jiling.cc/image-templates/k-pop-dance-choreography
+- 分类：二次元/漫画 / 角色插画
+- 标签：角色插画、舞蹈编排、教程海报、二次元/漫画
+
+效果图：
+
+[![K-pop舞蹈编排](assets/readme-previews/k-pop-dance-choreography.webp)](templates/k-pop-dance-choreography.html)
+
+
+提示词说明：可以继续补充想要的舞蹈风格、服装颜色、动作强度、练习室氛围、标题文字或动作说明语言。
+
+提示词：
+
+````text
+根据用户上传的参考图片，生成一张 K-pop 独舞编排信息图，保持人物脸型、发型、服装和整体气质在所有画面中一致。
+
+16个动作按整齐的 4×4 网格排列，每格展示一位完整全身人物，并标注编号 1–16。人物为一位长波浪卷发的亚洲少女，穿淡色棒球夹克、白色修身上衣、百褶裙、及膝袜和厚底运动鞋，配色为柔粉、薰衣草紫、婴儿蓝和白色。
+
+每格展示不同且连贯的 K-pop 动作，包括侧步、手臂波浪、扭胯、交叉步、身体波浪、半转身、比心、快速脚步、旋转和结束姿势。加入少量箭头表示动作方向，确保姿势自然、重心准确、肢体清晰，避免重复动作。
+
+风格为精致的手绘彩色铅笔插画，柔和阴影，可见铅笔纹理，清晰线稿，淡雅活力配色，搭配少量星星和闪光装饰。背景为简洁明亮的舞蹈练习室。
+
+顶部标题：
+K-POP SOLO DANCE · 16 COUNTS · 10 SECONDS
+
+每格下方预留简短动作说明区域。整体构图清晰、平衡、专业，像时尚杂志级舞蹈教程海报。
+
+负面提示词：模糊，低质量，重复姿势，多余肢体，手脚畸形，解剖错误，比例失调，人物不一致，服装变化，裁切身体，网格混乱，文字乱码，拼写错误，水印。
+````
+
+</details>
+
+<details>
+<summary>131. 超写实迷你娃娃 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hyperreal-mini-doll.html
 - 一键生成：https://www.jiling.cc/image-templates/hyperreal-mini-doll
@@ -3296,7 +3471,7 @@
 </details>
 
 <details>
-<summary>127. 狂热角色速写 - GPT Image 2 / 2:3</summary>
+<summary>132. 狂热角色速写 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/fanatic-character-sketchbook.html
 - 一键生成：https://www.jiling.cc/image-templates/fanatic-character-sketchbook
@@ -3329,7 +3504,7 @@
 </details>
 
 <details>
-<summary>128. 搞笑涂鸦风格 - GPT Image 2 / 2:3</summary>
+<summary>133. 搞笑涂鸦风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/funny-doodle-style.html
 - 一键生成：https://www.jiling.cc/image-templates/funny-doodle-style
@@ -3356,7 +3531,7 @@
 </details>
 
 <details>
-<summary>129. 手绘涂鸦卡通肖像 - GPT Image 2 / 2:3</summary>
+<summary>134. 手绘涂鸦卡通肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hand-drawn-doodle-cartoon-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/hand-drawn-doodle-cartoon-portrait
@@ -3391,7 +3566,7 @@
 </details>
 
 <details>
-<summary>130. 宠物朋友圈日记 - GPT Image 2 / 2:3</summary>
+<summary>135. 宠物朋友圈日记 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pet-moments-diary.html
 - 一键生成：https://www.jiling.cc/image-templates/pet-moments-diary
@@ -3414,7 +3589,7 @@
 </details>
 
 <details>
-<summary>131. 朋友圈动态截图 - GPT Image 2 / 2:3</summary>
+<summary>136. 朋友圈动态截图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/moments-feed-screenshot.html
 - 一键生成：https://www.jiling.cc/image-templates/moments-feed-screenshot
@@ -3437,7 +3612,7 @@
 </details>
 
 <details>
-<summary>132. 极简2D扁平插画 - GPT Image 2 / 2:3</summary>
+<summary>137. 极简2D扁平插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/minimal-2d-flat-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/minimal-2d-flat-illustration
@@ -3469,7 +3644,7 @@
 </details>
 
 <details>
-<summary>133. 水晶露珠肌效果 - GPT Image 2 / 2:3</summary>
+<summary>138. 水晶露珠肌效果 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/crystal-dew-skin-effect.html
 - 一键生成：https://www.jiling.cc/image-templates/crystal-dew-skin-effect
@@ -3504,7 +3679,7 @@
 </details>
 
 <details>
-<summary>134. 复古怪诞插画 - GPT Image 2 / 2:3</summary>
+<summary>139. 复古怪诞插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/retro-grotesque-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/retro-grotesque-illustration
@@ -3533,7 +3708,7 @@
 </details>
 
 <details>
-<summary>135. 杂志剪贴风格 - GPT Image 2 / 2:3</summary>
+<summary>140. 杂志剪贴风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/magazine-cutout-collage-style.html
 - 一键生成：https://www.jiling.cc/image-templates/magazine-cutout-collage-style
@@ -3577,7 +3752,7 @@
 </details>
 
 <details>
-<summary>136. Q版克隆贴纸照片 - GPT Image 2 / 2:3</summary>
+<summary>141. Q版克隆贴纸照片 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/chibi-clone-sticker-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/chibi-clone-sticker-photo
@@ -3612,7 +3787,7 @@
 </details>
 
 <details>
-<summary>137. Vogue时尚插画 - GPT Image 2 / 2:3</summary>
+<summary>142. Vogue时尚插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/vogue-fashion-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/vogue-fashion-illustration
@@ -3635,7 +3810,7 @@
 </details>
 
 <details>
-<summary>138. 银翼梦偶 - GPT Image 2 / 2:3</summary>
+<summary>143. 银翼梦偶 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/silver-wing-dream-doll.html
 - 一键生成：https://www.jiling.cc/image-templates/silver-wing-dream-doll
@@ -3675,7 +3850,7 @@
 </details>
 
 <details>
-<summary>139. 清新蓝底证件照 - GPT Image 2 / 2:3</summary>
+<summary>144. 清新蓝底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/fresh-blue-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/fresh-blue-id-photo
@@ -3698,7 +3873,7 @@
 </details>
 
 <details>
-<summary>140. 高端电商模特生成 - GPT Image 2 / 2:3</summary>
+<summary>145. 高端电商模特生成 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/high-end-ecommerce-model-generation.html
 - 一键生成：https://www.jiling.cc/image-templates/high-end-ecommerce-model-generation
@@ -3740,7 +3915,7 @@
 </details>
 
 <details>
-<summary>141. 儿童蜡笔风格 - GPT Image 2 / 2:3</summary>
+<summary>146. 儿童蜡笔风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/children-crayon-style.html
 - 一键生成：https://www.jiling.cc/image-templates/children-crayon-style
@@ -3763,7 +3938,7 @@
 </details>
 
 <details>
-<summary>142. 拟物化图标 - GPT Image 2 / 1:1</summary>
+<summary>147. 拟物化图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/skeuomorphic-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/skeuomorphic-icon-set
@@ -3791,7 +3966,7 @@
 </details>
 
 <details>
-<summary>143. 线面结合图标 - GPT Image 2 / 1:1</summary>
+<summary>148. 线面结合图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/line-fill-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/line-fill-icon-set
@@ -3819,7 +3994,7 @@
 </details>
 
 <details>
-<summary>144. 食品商业海报 - GPT Image 2 / 2:3</summary>
+<summary>149. 食品商业海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/food-commercial-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/food-commercial-poster
@@ -3852,7 +4027,7 @@
 </details>
 
 <details>
-<summary>145. 影楼级黑白写真 - GPT Image 2 / 2:3</summary>
+<summary>150. 影楼级黑白写真 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/studio-grade-black-white-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/studio-grade-black-white-portrait
@@ -3896,7 +4071,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>146. 个人资料卡 - GPT Image 2 / 2:3</summary>
+<summary>151. 个人资料卡 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-profile-card.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-profile-card
@@ -3919,7 +4094,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>147. 节日倒计时海报 - GPT Image 2 / 2:3</summary>
+<summary>152. 节日倒计时海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/festival-countdown-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/festival-countdown-poster
@@ -3947,7 +4122,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>148. 小红书收藏型封面 - GPT Image 2 / 2:3</summary>
+<summary>153. 小红书收藏型封面 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/xiaohongshu-saveable-cover.html
 - 一键生成：https://www.jiling.cc/image-templates/xiaohongshu-saveable-cover
@@ -3970,7 +4145,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>149. 白底证件照 - GPT Image 2 / 2:3</summary>
+<summary>154. 白底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/white-background-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/white-background-id-photo
@@ -3993,7 +4168,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>150. 极简风格插画 - GPT Image 2 / 2:3</summary>
+<summary>155. 极简风格插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/minimalist-editorial-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/minimalist-editorial-illustration
@@ -4016,7 +4191,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>151. 小红书探店封面 - GPT Image 2 / 2:3</summary>
+<summary>156. 小红书探店封面 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/xiaohongshu-local-shop-cover.html
 - 一键生成：https://www.jiling.cc/image-templates/xiaohongshu-local-shop-cover
@@ -4039,7 +4214,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>152. 奶茶飞溅风格 - GPT Image 2 / 2:3</summary>
+<summary>157. 奶茶飞溅风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/milk-tea-splash-style.html
 - 一键生成：https://www.jiling.cc/image-templates/milk-tea-splash-style
@@ -4084,7 +4259,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>153. 卡通蜡笔风格 - GPT Image 2 / 2:3</summary>
+<summary>158. 卡通蜡笔风格 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/cartoon-crayon-style.html
 - 一键生成：https://www.jiling.cc/image-templates/cartoon-crayon-style
@@ -4107,7 +4282,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>154. 爆款主图6张套图 - GPT Image 2 / 2:3</summary>
+<summary>159. 爆款主图6张套图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/bestseller-main-image-six-pack.html
 - 一键生成：https://www.jiling.cc/image-templates/bestseller-main-image-six-pack
@@ -4137,7 +4312,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>155. 彩色线条手绘 - GPT Image 2 / 2:3</summary>
+<summary>160. 彩色线条手绘 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/colorful-doodle-line-art.html
 - 一键生成：https://www.jiling.cc/image-templates/colorful-doodle-line-art
@@ -4160,7 +4335,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>156. 3D图标 - GPT Image 2 / 1:1</summary>
+<summary>161. 3D图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/3d-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/3d-icon-set
@@ -4188,7 +4363,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>157. 拼豆像素图纸 - Nano Banana Pro / 3:4</summary>
+<summary>162. 拼豆像素图纸 - Nano Banana Pro / 3:4</summary>
 
 - 教程页：https://docs.jiling.cc/templates/perler-bead-pixel-pattern.html
 - 一键生成：https://www.jiling.cc/image-templates/perler-bead-pixel-pattern
@@ -4230,7 +4405,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>158. 商务档案头像 - GPT Image 2 / 2:3</summary>
+<summary>163. 商务档案头像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/business-profile-headshot.html
 - 一键生成：https://www.jiling.cc/image-templates/business-profile-headshot
@@ -4270,7 +4445,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>159. 电商产品介绍图 - GPT Image 2 / 2:3</summary>
+<summary>164. 电商产品介绍图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-product-intro-image.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-product-intro-image
@@ -4293,7 +4468,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>160. 线性图标 - GPT Image 2 / 1:1</summary>
+<summary>165. 线性图标 - GPT Image 2 / 1:1</summary>
 
 - 教程页：https://docs.jiling.cc/templates/linear-icon-set.html
 - 一键生成：https://www.jiling.cc/image-templates/linear-icon-set
@@ -4321,7 +4496,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>161. 超写实概念肖像 - GPT Image 2 / 2:3</summary>
+<summary>166. 超写实概念肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/hyperreal-concept-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/hyperreal-concept-portrait
@@ -4365,7 +4540,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>162. 个人妆容分析 - GPT Image 2 / 2:3</summary>
+<summary>167. 个人妆容分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-makeup-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-makeup-analysis
@@ -4394,7 +4569,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>163. 甜点促销海报 - GPT Image 2 / 2:3</summary>
+<summary>168. 甜点促销海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/dessert-sale-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/dessert-sale-poster
@@ -4417,7 +4592,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>164. 手提产品包装设计 - GPT Image 2 / 2:3</summary>
+<summary>169. 手提产品包装设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/handled-product-packaging-design.html
 - 一键生成：https://www.jiling.cc/image-templates/handled-product-packaging-design
@@ -4440,7 +4615,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>165. 产品包装设计 - GPT Image 2 / 2:3</summary>
+<summary>170. 产品包装设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/product-packaging-design.html
 - 一键生成：https://www.jiling.cc/image-templates/product-packaging-design
@@ -4463,7 +4638,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>166. 手工纸雕插画 - GPT Image 2 / 2:3</summary>
+<summary>171. 手工纸雕插画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/handmade-paper-sculpture-illustration.html
 - 一键生成：https://www.jiling.cc/image-templates/handmade-paper-sculpture-illustration
@@ -4486,7 +4661,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>167. 红底证件照 - GPT Image 2 / 2:3</summary>
+<summary>172. 红底证件照 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/red-background-id-photo.html
 - 一键生成：https://www.jiling.cc/image-templates/red-background-id-photo
@@ -4509,7 +4684,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>168. 电商促销海报设计 - GPT Image 2 / 2:3</summary>
+<summary>173. 电商促销海报设计 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-sale-poster-design.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-sale-poster-design
@@ -4532,7 +4707,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>169. 护肤品促销海报 - GPT Image 2 / 2:3</summary>
+<summary>174. 护肤品促销海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/skincare-promo-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/skincare-promo-poster
@@ -4555,7 +4730,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>170. 皮克斯3D儿童肖像 - GPT Image 2 / 2:3</summary>
+<summary>175. 皮克斯3D儿童肖像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/pixar-3d-child-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/pixar-3d-child-portrait
@@ -4611,7 +4786,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>171. 科普百科图 - GPT Image 2 / 2:3</summary>
+<summary>176. 科普百科图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/encyclopedia-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/encyclopedia-infographic
@@ -4652,7 +4827,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>172. 异国旅行海报 - GPT Image 2 / 2:3</summary>
+<summary>177. 异国旅行海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/lost-in-country-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/lost-in-country-poster
@@ -4693,7 +4868,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>173. 个人色彩分析 - GPT Image 2 / 2:3</summary>
+<summary>178. 个人色彩分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-color-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-color-analysis
@@ -4726,7 +4901,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>174. 个人穿搭分析 - GPT Image 2 / 2:3</summary>
+<summary>179. 个人穿搭分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-outfit-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-outfit-analysis
@@ -4757,7 +4932,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>175. 个人发型分析 - GPT Image 2 / 2:3</summary>
+<summary>180. 个人发型分析 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/personal-hairstyle-analysis.html
 - 一键生成：https://www.jiling.cc/image-templates/personal-hairstyle-analysis
@@ -4790,7 +4965,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>176. Nike超现实海报 - GPT Image 2 / 2:3</summary>
+<summary>181. Nike超现实海报 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/nike-surreal-poster.html
 - 一键生成：https://www.jiling.cc/image-templates/nike-surreal-poster
@@ -4813,7 +4988,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>177. 角色设定图 - GPT Image 2 / 2:3</summary>
+<summary>182. 角色设定图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/character-design-sheet.html
 - 一键生成：https://www.jiling.cc/image-templates/character-design-sheet
@@ -4847,7 +5022,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>178. 技术信息图 - GPT Image 2 / 2:3</summary>
+<summary>183. 技术信息图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/technical-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/technical-infographic
@@ -4891,7 +5066,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>179. 情侣漫步拼贴画 - GPT Image 2 / 2:3</summary>
+<summary>184. 情侣漫步拼贴画 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/couple-stroll-collage.html
 - 一键生成：https://www.jiling.cc/image-templates/couple-stroll-collage
@@ -4937,7 +5112,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>180. 高级时装人像 - GPT Image 2 / 2:3</summary>
+<summary>185. 高级时装人像 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/high-fashion-editorial-portrait.html
 - 一键生成：https://www.jiling.cc/image-templates/high-fashion-editorial-portrait
@@ -4968,7 +5143,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>181. 超市特价传单 - GPT Image 2 / 2:3</summary>
+<summary>186. 超市特价传单 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/community-supermarket-flyer.html
 - 一键生成：https://www.jiling.cc/image-templates/community-supermarket-flyer
@@ -4991,7 +5166,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>182. 东方幻想风格女性 - GPT Image 2 / 2:3</summary>
+<summary>187. 东方幻想风格女性 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/eastern-fantasy-female.html
 - 一键生成：https://www.jiling.cc/image-templates/eastern-fantasy-female
@@ -5024,7 +5199,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>183. 拆解信息图 - GPT Image 2 / 2:3</summary>
+<summary>188. 拆解信息图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/deconstruction-infographic.html
 - 一键生成：https://www.jiling.cc/image-templates/deconstruction-infographic
@@ -5062,7 +5237,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>184. 电商详情图 - GPT Image 2 / 2:3</summary>
+<summary>189. 电商详情图 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/ecommerce-detail-image.html
 - 一键生成：https://www.jiling.cc/image-templates/ecommerce-detail-image
@@ -5085,7 +5260,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>185. 旅游攻略 - GPT Image 2 / 2:3</summary>
+<summary>190. 旅游攻略 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/travel-guide.html
 - 一键生成：https://www.jiling.cc/image-templates/travel-guide
@@ -5108,7 +5283,7 @@ Hasselblad medium format camera aesthetic，85mm lens，f/1.8。伦勃朗光结�
 </details>
 
 <details>
-<summary>186. 书法临摹贴 - GPT Image 2 / 2:3</summary>
+<summary>191. 书法临摹贴 - GPT Image 2 / 2:3</summary>
 
 - 教程页：https://docs.jiling.cc/templates/calligraphy-copybook.html
 - 一键生成：https://www.jiling.cc/image-templates/calligraphy-copybook
